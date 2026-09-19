@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-19",
+  "league": "MLS",
+  "slate": "7:30 ET first wave",
+  "frozen_at_utc": "2026-09-19T22:54:16.560907+00:00",
+  "source_snapshot": "data/odds/mls_latest.json",
+  "status": "pregame_frozen",
+  "matches": [
+    {
+      "match": "CF Montreal vs Columbus Crew SC",
+      "prediction": {
+        "ft": "1-1",
+        "ht": "0-0",
+        "btts": "Yes",
+        "home_win_pct": 35,
+        "draw_pct": 29,
+        "away_win_pct": 36,
+        "shots": {
+          "home": 12,
+          "away": 13
+        },
+        "sot": {
+          "home": 4,
+          "away": 5
+        },
+        "corners": {
+          "home": 4,
+          "away": 5
+        },
+        "gk_saves": {
+          "home": 4,
+          "away": 3
+        }
+      },
+      "notes": "Alexis Sanchez on bench in current lineup feed; no pregame bet."
+    },
+    {
+      "match": "D.C. United vs Charlotte FC",
+      "prediction": {
+        "ft": "1-2",
+        "ht": "0-1",
+        "btts": "Yes",
+        "home_win_pct": 31,
+        "draw_pct": 25,
+        "away_win_pct": 44,
+        "shots": {
+          "home": 12,
+          "away": 14
+        },
+        "sot": {
+          "home": 4,
+          "away": 5
+        },
+        "corners": {
+          "home": 5,
+          "away": 6
+        },
+        "gk_saves": {
+          "home": 3,
+          "away": 3
+        }
+      },
+      "notes": "Charlotte XI includes Abada, Toklomati, Saint-Maximin; Charlotte +135 is only a lean."
+    },
+    {
+      "match": "New England Revolution vs Orlando City SC",
+      "prediction": {
+        "ft": "2-1",
+        "ht": "1-0",
+        "btts": "Yes",
+        "home_win_pct": 61,
+        "draw_pct": 21,
+        "away_win_pct": 18,
+        "shots": {
+          "home": 15,
+          "away": 11
+        },
+        "sot": {
+          "home": 6,
+          "away": 4
+        },
+        "corners": {
+          "home": 6,
+          "away": 4
+        },
+        "gk_saves": {
+          "home": 3,
+          "away": 4
+        }
+      },
+      "notes": "Orlando confirmed Antoine Griezmann out due to injury. New England ML -145 small test position."
+    },
+    {
+      "match": "San Jose Earthquakes vs Los Angeles FC",
+      "prediction": {
+        "ft": "2-2",
+        "ht": "1-1",
+        "btts": "Yes",
+        "home_win_pct": 29,
+        "draw_pct": 27,
+        "away_win_pct": 44,
+        "shots": {
+          "home": 14,
+          "away": 15
+        },
+        "sot": {
+          "home": 5,
+          "away": 6
+        },
+        "corners": {
+          "home": 6,
+          "away": 6
+        },
+        "gk_saves": {
+          "home": 4,
+          "away": 3
+        }
+      },
+      "notes": "Primary volume edge is total corners; current best Over 9.5 -110."
+    }
+  ],
+  "bets": [
+    {
+      "bet": "San Jose Earthquakes vs Los Angeles FC Over 9.5 corners",
+      "odds": "-110",
+      "book": "DraftKings",
+      "stake_units": 0.5,
+      "model_probability_pct": 58,
+      "break_even_pct": 52.4,
+      "status": "BET"
+    },
+    {
+      "bet": "New England Revolution moneyline",
+      "odds": "-145",
+      "book": "Fanatics",
+      "stake_units": 0.25,
+      "model_probability_pct": 61,
+      "break_even_pct": 59.2,
+      "status": "SMALL BET"
+    }
+  ],
+  "leans": [
+    {
+      "bet": "Charlotte FC moneyline",
+      "odds": "+135",
+      "book": "DraftKings",
+      "model_probability_pct": 44,
+      "break_even_pct": 42.6,
+      "status": "LEAN"
+    },
+    {
+      "bet": "CF Montreal vs Columbus Crew Under 9.5 corners",
+      "odds": "-130",
+      "book": "DraftKings",
+      "model_probability_pct": 58,
+      "break_even_pct": 56.5,
+      "status": "LEAN"
+    }
+  ]
+}
