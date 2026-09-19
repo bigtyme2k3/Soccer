@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-19",
+  "league": "LaLiga",
+  "match": "Sevilla vs Barcelona",
+  "status": "provisional",
+  "prediction": {
+    "ft": "1-3",
+    "ht": "0-1",
+    "btts": "Yes",
+    "shots": {
+      "sevilla": "9-11",
+      "barcelona": "16-20"
+    },
+    "shots_on_target": {
+      "sevilla": "2-4",
+      "barcelona": "6-9"
+    },
+    "corners": {
+      "sevilla": "3-4",
+      "barcelona": "5-7"
+    },
+    "sevilla_goalkeeper_saves": "4-6"
+  },
+  "result": {
+    "ft": "1-3",
+    "ht": "1-1",
+    "btts": "Yes",
+    "possession_pct": {
+      "sevilla": 31,
+      "barcelona": 69
+    },
+    "xg": {
+      "sevilla": 0.44,
+      "barcelona": 3.14
+    },
+    "shots_on_target": {
+      "sevilla": 3,
+      "barcelona": 7
+    },
+    "shots_off_target": {
+      "sevilla": 4,
+      "barcelona": 17
+    },
+    "note": "User-provided final screenshots show 1-3 FT, 1-1 HT, 3-7 SOT, 4-17 off target and xG 0.44-3.14. StatMuse currently reports 6-23 shots, 3-7 SOT, and 5-2 goalkeeper saves; its page remains labeled live, so save grading should follow FanDuel/Opta settlement."
+  },
+  "player_results": {
+    "lamine_yamal": {
+      "shots": 5,
+      "shots_on_target": 2,
+      "assists": 2,
+      "note": "Timeline shows at least five shot events; StatMuse play-by-play records SOT at 8' and 84'."
+    },
+    "raphinha": {
+      "goals": 3
+    }
+  },
+  "bets": [
+    {
+      "bet": "Lamine Yamal 5+ shots",
+      "odds": "-110",
+      "stake_units": 0.5,
+      "result": "WIN",
+      "profit_units": 0.454545
+    },
+    {
+      "bet": "Sevilla goalkeeper 5+ saves",
+      "odds": "+110",
+      "stake_units": 0.5,
+      "result": "PROVISIONAL WIN",
+      "profit_units": 0.55,
+      "note": "StatMuse defensive stats currently credit Sevilla with 5 goalkeeper saves. User screenshot source shows 7 Barcelona SOT, creating a provider discrepancy. Confirm against FanDuel settlement/Opta before marking final."
+    },
+    {
+      "bet": "Lamine Yamal 3+ shots on target",
+      "odds": "+230",
+      "stake_units": 0.25,
+      "result": "LOSS",
+      "profit_units": -0.25
+    }
+  ],
+  "provisional_betting_summary": {
+    "wins": 2,
+    "losses": 1,
+    "stake_units": 1.25,
+    "profit_units": 0.754545,
+    "roi_pct": 60.3636
+  }
+}
