@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-19",
+  "league": "EPL",
+  "slate": "10:00 ET three-match EDGE FC test",
+  "status": "graded",
+  "sources": {
+    "brighton_arsenal": [
+      "ESPN gameId 401879274",
+      "The Guardian match page",
+      "bet365 match stats"
+    ],
+    "everton_ipswich": [
+      "ESPN gameId 401878778",
+      "The Guardian match page",
+      "Sofascore match report"
+    ],
+    "newcastle_hull": [
+      "ESPN gameId 401879271",
+      "The Guardian match page"
+    ]
+  },
+  "matches": [
+    {
+      "match": "Brighton and Hove Albion vs Arsenal",
+      "prediction": {
+        "ft": "1-2",
+        "ht": "0-1",
+        "btts": "Yes",
+        "shots": [
+          13.5,
+          14.2
+        ],
+        "sot": [
+          4.5,
+          5.4
+        ],
+        "corners": [
+          5,
+          4
+        ],
+        "gk_saves": [
+          3.4,
+          3.5
+        ]
+      },
+      "result": {
+        "ft": "3-0",
+        "ht": "2-0",
+        "btts": "No",
+        "shots": [
+          17,
+          11
+        ],
+        "sot": [
+          5,
+          2
+        ],
+        "corners": [
+          5,
+          6
+        ],
+        "gk_saves": [
+          2,
+          2
+        ]
+      },
+      "notes": "Corners recorded 5-6 by bet365/365Scores; Guardian displayed 5-5. Use 5-6 for this archive and retain discrepancy note."
+    },
+    {
+      "match": "Everton vs Ipswich Town",
+      "prediction": {
+        "ft": "2-1",
+        "ht": "1-0",
+        "btts": "Yes",
+        "shots": [
+          15.2,
+          11.4
+        ],
+        "sot": [
+          5.3,
+          4.1
+        ],
+        "corners": [
+          5.5,
+          4.2
+        ],
+        "gk_saves": [
+          3.1,
+          3.3
+        ]
+      },
+      "result": {
+        "ft": "1-0",
+        "ht": "1-0",
+        "btts": "No",
+        "shots": [
+          21,
+          13
+        ],
+        "sot": [
+          2,
+          4
+        ],
+        "corners": [
+          2,
+          4
+        ],
+        "gk_saves": [
+          4,
+          1
+        ]
+      },
+      "notes": "Total shots use Sofascore 21-13. Guardian goal-attempt display differs because of shot classification. SOT and score independently corroborated."
+    },
+    {
+      "match": "Newcastle United vs Hull City",
+      "prediction": {
+        "ft": "1-1",
+        "ht": "0-0",
+        "btts": "50% neutral",
+        "shots": [
+          14,
+          10
+        ],
+        "sot": [
+          4.6,
+          3.5
+        ],
+        "corners": [
+          5,
+          4
+        ],
+        "gk_saves": [
+          2.5,
+          3.6
+        ]
+      },
+      "result": {
+        "ft": "2-1",
+        "ht": "2-0",
+        "btts": "Yes",
+        "shots": [
+          9,
+          10
+        ],
+        "sot": [
+          3,
+          4
+        ],
+        "corners": [
+          4,
+          2
+        ],
+        "gk_saves": [
+          3,
+          1
+        ]
+      }
+    }
+  ],
+  "bets": [
+    {
+      "bet": "Newcastle-Hull Under 9.5 corners",
+      "odds": "+130",
+      "stake_units": 0.5,
+      "result": "WIN",
+      "profit_units": 0.65
+    },
+    {
+      "bet": "Bukayo Saka 2+ shots on target",
+      "odds": "+210",
+      "stake_units": 0.25,
+      "result": "LOSS",
+      "profit_units": -0.25,
+      "note": "Arsenal recorded only 2 team SOT; ESPN play-by-play separately records an Odegaard saved SOT, so Saka could not have reached 2+."
+    },
+    {
+      "bet": "Everton-Ipswich Under 9.5 corners",
+      "odds": "-115",
+      "stake_units": 0.25,
+      "result": "WIN",
+      "profit_units": 0.217391
+    }
+  ],
+  "betting_summary": {
+    "wins": 2,
+    "losses": 1,
+    "stake_units": 1,
+    "profit_units": 0.617391,
+    "roi_pct": 61.7391
+  }
+}
