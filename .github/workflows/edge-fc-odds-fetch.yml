@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/edge-fc-odds-fetch.yml'
+      - 'scripts/fetch_epl_odds.py'
 
 permissions:
   contents: write
