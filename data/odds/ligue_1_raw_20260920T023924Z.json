@@ -1,0 +1,4684 @@
+{
+  "fetched_at": "2026-09-20T02:39:24.058416+00:00",
+  "sport": "soccer_france_ligue_one",
+  "league": "ligue_1",
+  "events": [
+    {
+      "id": "9ad9809b917fa4d390e2332a246d3044",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-09-20T13:00:00Z",
+      "home_team": "Auxerre",
+      "away_team": "Brest"
+    },
+    {
+      "id": "68098e30e20a258d5ab0486c5ce437d2",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-09-20T15:15:00Z",
+      "home_team": "Nice",
+      "away_team": "Lille"
+    },
+    {
+      "id": "2b9e09738f8627da46e42d85e4ccb478",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-09-20T18:45:00Z",
+      "home_team": "Marseille",
+      "away_team": "Paris Saint Germain"
+    },
+    {
+      "id": "17694e68f399fdf9c5030021ec9bb595",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-09T18:45:00Z",
+      "home_team": "RC Lens",
+      "away_team": "Lyon"
+    },
+    {
+      "id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-10T15:15:00Z",
+      "home_team": "Lille",
+      "away_team": "Le Havre"
+    },
+    {
+      "id": "c2c64ebfc5810226f807c1920d580392",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-10T18:45:00Z",
+      "home_team": "AS Monaco",
+      "away_team": "Toulouse"
+    },
+    {
+      "id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-10T18:45:00Z",
+      "home_team": "Brest",
+      "away_team": "Angers"
+    },
+    {
+      "id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-10T18:45:00Z",
+      "home_team": "Paris Saint Germain",
+      "away_team": "Le Mans FC"
+    },
+    {
+      "id": "3aa72885e0aa107c62843749f7930a9a",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-10T18:45:00Z",
+      "home_team": "Lorient",
+      "away_team": "Paris FC"
+    },
+    {
+      "id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-11T13:00:00Z",
+      "home_team": "Nice",
+      "away_team": "Strasbourg"
+    },
+    {
+      "id": "34f584ab922e220dc4f3b81217959d6d",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-11T15:15:00Z",
+      "home_team": "Rennes",
+      "away_team": "Auxerre"
+    },
+    {
+      "id": "cb7067ac191abf32ad49dad45e46f639",
+      "sport_key": "soccer_france_ligue_one",
+      "sport_title": "Ligue 1 - France",
+      "commence_time": "2026-10-11T18:45:00Z",
+      "home_team": "Troyes",
+      "away_team": "Marseille"
+    }
+  ],
+  "event_markets": [
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "h2h",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:39:24Z",
+                "outcomes": [
+                  {
+                    "name": "Auxerre",
+                    "price": 185
+                  },
+                  {
+                    "name": "Brest",
+                    "price": 140
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 240
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:38:18Z",
+                "outcomes": [
+                  {
+                    "name": "Auxerre",
+                    "price": 175
+                  },
+                  {
+                    "name": "Brest",
+                    "price": 140
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 250
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:39:21Z",
+                "outcomes": [
+                  {
+                    "name": "Auxerre",
+                    "price": 185
+                  },
+                  {
+                    "name": "Brest",
+                    "price": 140
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 255
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "totals",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "totals",
+                "last_update": "2026-09-20T02:39:05Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": -132,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 108,
+                    "point": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "btts",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-09-20T02:39:05Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -168
+                  },
+                  {
+                    "name": "No",
+                    "price": 132
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-09-20T02:38:41Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -160
+                  },
+                  {
+                    "name": "No",
+                    "price": 125
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "correct_score",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "player_shots",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "alternate_totals_corners",
+                "last_update": "2026-09-20T02:38:41Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": -425,
+                    "point": 7.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": -235,
+                    "point": 8.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": -140,
+                    "point": 9.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": 115,
+                    "point": 10.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": 185,
+                    "point": 11.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 275,
+                    "point": 7.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 165,
+                    "point": 8.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 100,
+                    "point": 9.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -165,
+                    "point": 10.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -270,
+                    "point": 11.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "9ad9809b917fa4d390e2332a246d3044",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "9ad9809b917fa4d390e2332a246d3044",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T13:00:00Z",
+        "home_team": "Auxerre",
+        "away_team": "Brest",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "alternate_team_totals_corners",
+                "last_update": "2026-09-20T02:38:41Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "description": "Auxerre",
+                    "price": -155,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Under",
+                    "description": "Auxerre",
+                    "price": 110,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Brest",
+                    "price": -140,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Under",
+                    "description": "Brest",
+                    "price": 100,
+                    "point": 4.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "h2h",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:39:24Z",
+                "outcomes": [
+                  {
+                    "name": "Lille",
+                    "price": 105
+                  },
+                  {
+                    "name": "Nice",
+                    "price": 260
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 240
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:38:18Z",
+                "outcomes": [
+                  {
+                    "name": "Lille",
+                    "price": 100
+                  },
+                  {
+                    "name": "Nice",
+                    "price": 260
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 240
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:39:21Z",
+                "outcomes": [
+                  {
+                    "name": "Lille",
+                    "price": 105
+                  },
+                  {
+                    "name": "Nice",
+                    "price": 270
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 250
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "totals",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "totals",
+                "last_update": "2026-09-20T02:37:56Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": -110,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -110,
+                    "point": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "btts",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-09-20T02:37:56Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -140
+                  },
+                  {
+                    "name": "No",
+                    "price": 110
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-09-20T02:38:09Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -140
+                  },
+                  {
+                    "name": "No",
+                    "price": 110
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "correct_score",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "player_shots",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "player_shots",
+                "last_update": "2026-09-20T02:37:56Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": -450,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": -390,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": -380,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": -340,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": -240,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Gaetan Perrin",
+                    "price": -220,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Soriba Diaoune",
+                    "price": -190,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Osame Sahraoui",
+                    "price": -185,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maurits Kjaegaard",
+                    "price": -165,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isak Jansson",
+                    "price": -150,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Sofiane Diop",
+                    "price": -145,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Basar Onal",
+                    "price": -130,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nabil Bentaleb",
+                    "price": -115,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Morgan Sanson",
+                    "price": -115,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Jonathan Clauss",
+                    "price": 100,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ngal'ayel Mukau",
+                    "price": 105,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Romain Perraud",
+                    "price": 120,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hamza Koutoune",
+                    "price": 140,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tiago Carvalho Santos",
+                    "price": 140,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hicham Boudaoui",
+                    "price": 210,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ali Abdi",
+                    "price": 210,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Alexsandro Victor de Souza Ribeiro",
+                    "price": 240,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Djibril Coulibaly",
+                    "price": 290,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Benjamin Andre",
+                    "price": 330,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Calvin Verdonk",
+                    "price": 400,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isaac Cossier",
+                    "price": 470,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nathan Ngoy",
+                    "price": 470,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Loun Srdanovic",
+                    "price": 550,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Youssouf Ndayishimiye",
+                    "price": 750,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mohamed Abdelmonem",
+                    "price": 1200,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": 360,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": 480,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": 490,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": 500,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": 850,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Gaetan Perrin",
+                    "price": 950,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Soriba Diaoune",
+                    "price": 1100,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Osame Sahraoui",
+                    "price": 1100,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maurits Kjaegaard",
+                    "price": 1400,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Sofiane Diop",
+                    "price": 1700,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isak Jansson",
+                    "price": 1700,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Basar Onal",
+                    "price": 2000,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nabil Bentaleb",
+                    "price": 2200,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Morgan Sanson",
+                    "price": 2200,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": -160,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": -135,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": -130,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": -120,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": 125,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Gaetan Perrin",
+                    "price": 140,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Osame Sahraoui",
+                    "price": 165,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Soriba Diaoune",
+                    "price": 160,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maurits Kjaegaard",
+                    "price": 190,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isak Jansson",
+                    "price": 210,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Sofiane Diop",
+                    "price": 220,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Basar Onal",
+                    "price": 240,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nabil Bentaleb",
+                    "price": 280,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Morgan Sanson",
+                    "price": 280,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Jonathan Clauss",
+                    "price": 340,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ngal'ayel Mukau",
+                    "price": 350,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Romain Perraud",
+                    "price": 400,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tiago Carvalho Santos",
+                    "price": 480,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hamza Koutoune",
+                    "price": 500,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ali Abdi",
+                    "price": 800,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hicham Boudaoui",
+                    "price": 800,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Alexsandro Victor de Souza Ribeiro",
+                    "price": 950,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Djibril Coulibaly",
+                    "price": 1200,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Benjamin Andre",
+                    "price": 1300,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Calvin Verdonk",
+                    "price": 1700,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nathan Ngoy",
+                    "price": 2000,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isaac Cossier",
+                    "price": 2200,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": 800,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": 1100,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": 1100,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": 1300,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": 2200,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": 160,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": 200,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": 200,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": 220,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": 330,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Gaetan Perrin",
+                    "price": 370,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Soriba Diaoune",
+                    "price": 440,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Osame Sahraoui",
+                    "price": 450,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maurits Kjaegaard",
+                    "price": 500,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isak Jansson",
+                    "price": 600,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Sofiane Diop",
+                    "price": 600,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Basar Onal",
+                    "price": 700,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nabil Bentaleb",
+                    "price": 800,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Morgan Sanson",
+                    "price": 800,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ngal'ayel Mukau",
+                    "price": 1000,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Jonathan Clauss",
+                    "price": 1000,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Romain Perraud",
+                    "price": 1200,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tiago Carvalho Santos",
+                    "price": 1500,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hamza Koutoune",
+                    "price": 1600,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": -3000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": -2500,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": -2500,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": -2000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": -1250,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Gaetan Perrin",
+                    "price": -1100,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Osame Sahraoui",
+                    "price": -900,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Soriba Diaoune",
+                    "price": -900,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maurits Kjaegaard",
+                    "price": -750,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isak Jansson",
+                    "price": -650,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Sofiane Diop",
+                    "price": -650,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Basar Onal",
+                    "price": -600,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nabil Bentaleb",
+                    "price": -500,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Morgan Sanson",
+                    "price": -500,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Jonathan Clauss",
+                    "price": -450,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ngal'ayel Mukau",
+                    "price": -425,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Romain Perraud",
+                    "price": -380,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hamza Koutoune",
+                    "price": -330,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tiago Carvalho Santos",
+                    "price": -320,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hicham Boudaoui",
+                    "price": -230,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ali Abdi",
+                    "price": -220,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Alexsandro Victor de Souza Ribeiro",
+                    "price": -200,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Djibril Coulibaly",
+                    "price": -170,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Benjamin Andre",
+                    "price": -160,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Calvin Verdonk",
+                    "price": -140,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nathan Ngoy",
+                    "price": -125,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isaac Cossier",
+                    "price": -120,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Loun Srdanovic",
+                    "price": 100,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Youssouf Ndayishimiye",
+                    "price": 120,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mohamed Abdelmonem",
+                    "price": 175,
+                    "point": 0.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "player_shots_on_target",
+                "last_update": "2026-09-20T02:37:56Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": 550,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": 600,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": 850,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": 900,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Gaetan Perrin",
+                    "price": 1100,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": 1100,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Soriba Diaoune",
+                    "price": 1100,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isak Jansson",
+                    "price": 1600,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Osame Sahraoui",
+                    "price": 1600,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Sofiane Diop",
+                    "price": 2000,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Basar Onal",
+                    "price": 2000,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": -320,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": -290,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": -220,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": -210,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Gaetan Perrin",
+                    "price": -185,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": -185,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Soriba Diaoune",
+                    "price": -180,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Osame Sahraoui",
+                    "price": -150,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isak Jansson",
+                    "price": -145,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Basar Onal",
+                    "price": -130,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Sofiane Diop",
+                    "price": -130,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maurits Kjaegaard",
+                    "price": 105,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nabil Bentaleb",
+                    "price": 105,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Jonathan Clauss",
+                    "price": 110,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Romain Perraud",
+                    "price": 120,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ngal'ayel Mukau",
+                    "price": 145,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hicham Boudaoui",
+                    "price": 195,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tiago Carvalho Santos",
+                    "price": 195,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hamza Koutoune",
+                    "price": 200,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Morgan Sanson",
+                    "price": 230,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ali Abdi",
+                    "price": 260,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nathan Ngoy",
+                    "price": 290,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Alexsandro Victor de Souza Ribeiro",
+                    "price": 310,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Loun Srdanovic",
+                    "price": 350,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Calvin Verdonk",
+                    "price": 350,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isaac Cossier",
+                    "price": 360,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mohamed Abdelmonem",
+                    "price": 950,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Olivier Giroud",
+                    "price": 150,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ayase Ueda",
+                    "price": 170,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Dilane Bakwa",
+                    "price": 220,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ethan Mbappe",
+                    "price": 230,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Gaetan Perrin",
+                    "price": 270,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hakon Arnar Haraldsson",
+                    "price": 270,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Soriba Diaoune",
+                    "price": 280,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Isak Jansson",
+                    "price": 380,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Osame Sahraoui",
+                    "price": 380,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Sofiane Diop",
+                    "price": 440,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Basar Onal",
+                    "price": 440,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nabil Bentaleb",
+                    "price": 600,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maurits Kjaegaard",
+                    "price": 650,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Jonathan Clauss",
+                    "price": 650,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Romain Perraud",
+                    "price": 750,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ngal'ayel Mukau",
+                    "price": 950,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tiago Carvalho Santos",
+                    "price": 1400,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hicham Boudaoui",
+                    "price": 1400,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Hamza Koutoune",
+                    "price": 1500,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Morgan Sanson",
+                    "price": 2000,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ali Abdi",
+                    "price": 2200,
+                    "point": 1.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "alternate_totals_corners",
+                "last_update": "2026-09-20T02:38:09Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": -370,
+                    "point": 7.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": -205,
+                    "point": 8.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": -125,
+                    "point": 9.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": 130,
+                    "point": 10.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": 210,
+                    "point": 11.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 245,
+                    "point": 7.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 145,
+                    "point": 8.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -115,
+                    "point": 9.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -185,
+                    "point": 10.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -310,
+                    "point": 11.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "68098e30e20a258d5ab0486c5ce437d2",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "68098e30e20a258d5ab0486c5ce437d2",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T15:15:00Z",
+        "home_team": "Nice",
+        "away_team": "Lille",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "alternate_team_totals_corners",
+                "last_update": "2026-09-20T02:38:09Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "description": "Lille",
+                    "price": -145,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Under",
+                    "description": "Lille",
+                    "price": 105,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nice",
+                    "price": -130,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Under",
+                    "description": "Nice",
+                    "price": -110,
+                    "point": 4.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "h2h",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:39:24Z",
+                "outcomes": [
+                  {
+                    "name": "Marseille",
+                    "price": 600
+                  },
+                  {
+                    "name": "Paris Saint Germain",
+                    "price": -300
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 420
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:38:18Z",
+                "outcomes": [
+                  {
+                    "name": "Marseille",
+                    "price": 650
+                  },
+                  {
+                    "name": "Paris Saint Germain",
+                    "price": -285
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 450
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-09-20T02:39:21Z",
+                "outcomes": [
+                  {
+                    "name": "Marseille",
+                    "price": 600
+                  },
+                  {
+                    "name": "Paris Saint Germain",
+                    "price": -260
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 450
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "totals",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "totals",
+                "last_update": "2026-09-20T02:38:02Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": 100,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -122,
+                    "point": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "btts",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-09-20T02:38:02Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -176
+                  },
+                  {
+                    "name": "No",
+                    "price": 138
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-09-20T02:39:05Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -175
+                  },
+                  {
+                    "name": "No",
+                    "price": 135
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "correct_score",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "player_shots",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "player_shots",
+                "last_update": "2026-09-20T02:38:02Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": -390,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": -360,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": -330,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": -320,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": -250,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": -180,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": -150,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": -150,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": 115,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nuno Mendes",
+                    "price": 135,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Fabian Ruiz",
+                    "price": 175,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Faris Moumbagna",
+                    "price": 200,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Joao Pedro Goncalves Neves",
+                    "price": 200,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Achraf Hakimi",
+                    "price": 200,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Igor Paixao",
+                    "price": 200,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Neal Maupay",
+                    "price": 250,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Keyliane Abdallah",
+                    "price": 320,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Angel Gomes",
+                    "price": 420,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Himad Abdelli",
+                    "price": 550,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Pierre-Emile Hojbjerg",
+                    "price": 650,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Digne",
+                    "price": 700,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Harit",
+                    "price": 700,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Warren Zaire-Emery",
+                    "price": 800,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Timothy Weah",
+                    "price": 950,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Hernandez",
+                    "price": 1000,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tochukwu Nadi",
+                    "price": 1000,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Lopes Beraldo",
+                    "price": 1300,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ulisses Garcia Lopes",
+                    "price": 2000,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": -10000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": -7000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": -10000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": -10000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": -10000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": -4000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": -3000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": -2500,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": -1250,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nuno Mendes",
+                    "price": -1100,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Fabian Ruiz",
+                    "price": -800,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Faris Moumbagna",
+                    "price": -700,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Achraf Hakimi",
+                    "price": -700,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Igor Paixao",
+                    "price": -700,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Joao Pedro Goncalves Neves",
+                    "price": -700,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Neal Maupay",
+                    "price": -600,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Keyliane Abdallah",
+                    "price": -450,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Angel Gomes",
+                    "price": -370,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Himad Abdelli",
+                    "price": -290,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Pierre-Emile Hojbjerg",
+                    "price": -260,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Digne",
+                    "price": -250,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Warren Zaire-Emery",
+                    "price": -240,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Harit",
+                    "price": -240,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Timothy Weah",
+                    "price": -200,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Hernandez",
+                    "price": -195,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tochukwu Nadi",
+                    "price": -190,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Lopes Beraldo",
+                    "price": -160,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ulisses Garcia Lopes",
+                    "price": -120,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Illia Zabarnyi",
+                    "price": -110,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Emerson Palmieri",
+                    "price": 105,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nayef Aguerd",
+                    "price": 110,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Derek Cornelius",
+                    "price": 120,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Cj Egan-Riley",
+                    "price": 220,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Bamo Meite",
+                    "price": 290,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": -160,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": -150,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": -140,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": -135,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": -105,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": 140,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": 170,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": 175,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": 300,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nuno Mendes",
+                    "price": 380,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Fabian Ruiz",
+                    "price": 500,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Faris Moumbagna",
+                    "price": 550,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Achraf Hakimi",
+                    "price": 550,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Igor Paixao",
+                    "price": 550,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Joao Pedro Goncalves Neves",
+                    "price": 550,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Neal Maupay",
+                    "price": 700,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Keyliane Abdallah",
+                    "price": 950,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Angel Gomes",
+                    "price": 1300,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Himad Abdelli",
+                    "price": 1900,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Pierre-Emile Hojbjerg",
+                    "price": 2200,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": -1500,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": -1250,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": -1250,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": -1000,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": -800,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": -550,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": -450,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": -450,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": -260,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nuno Mendes",
+                    "price": -220,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Fabian Ruiz",
+                    "price": -180,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Igor Paixao",
+                    "price": -160,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Achraf Hakimi",
+                    "price": -160,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Faris Moumbagna",
+                    "price": -160,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Joao Pedro Goncalves Neves",
+                    "price": -155,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Neal Maupay",
+                    "price": -130,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Keyliane Abdallah",
+                    "price": -105,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Angel Gomes",
+                    "price": 120,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Himad Abdelli",
+                    "price": 160,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Pierre-Emile Hojbjerg",
+                    "price": 185,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Digne",
+                    "price": 195,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Harit",
+                    "price": 200,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Warren Zaire-Emery",
+                    "price": 210,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Timothy Weah",
+                    "price": 240,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Hernandez",
+                    "price": 250,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tochukwu Nadi",
+                    "price": 260,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Lopes Beraldo",
+                    "price": 320,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ulisses Garcia Lopes",
+                    "price": 470,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Illia Zabarnyi",
+                    "price": 500,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Emerson Palmieri",
+                    "price": 600,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nayef Aguerd",
+                    "price": 650,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Derek Cornelius",
+                    "price": 750,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Cj Egan-Riley",
+                    "price": 1600,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": 140,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": 145,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": 165,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": 170,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": 220,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": 330,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": 410,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": 420,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": 700,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nuno Mendes",
+                    "price": 1000,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Fabian Ruiz",
+                    "price": 1300,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Igor Paixao",
+                    "price": 1500,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Joao Pedro Goncalves Neves",
+                    "price": 1600,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Faris Moumbagna",
+                    "price": 1600,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Achraf Hakimi",
+                    "price": 1600,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Neal Maupay",
+                    "price": 2000,
+                    "point": 4.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": 300,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": 320,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": 340,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": 370,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": 500,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": 750,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": 950,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": 1000,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": 1800,
+                    "point": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "player_shots_on_target",
+                "last_update": "2026-09-20T02:38:02Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": -140,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": -135,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": -130,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": 120,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": 140,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": 150,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": 175,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": 185,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": 200,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Neal Maupay",
+                    "price": 280,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Faris Moumbagna",
+                    "price": 350,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nuno Mendes",
+                    "price": 350,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Igor Paixao",
+                    "price": 490,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Fabian Ruiz",
+                    "price": 500,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Achraf Hakimi",
+                    "price": 550,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Keyliane Abdallah",
+                    "price": 550,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Joao Pedro Goncalves Neves",
+                    "price": 600,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Angel Gomes",
+                    "price": 900,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Harit",
+                    "price": 900,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Himad Abdelli",
+                    "price": 1000,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Digne",
+                    "price": 1800,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Lopes Beraldo",
+                    "price": 1800,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Timothy Weah",
+                    "price": 2000,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Pierre-Emile Hojbjerg",
+                    "price": 2200,
+                    "point": 1.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": 240,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": 240,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": 260,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": 430,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": 500,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": 550,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": 600,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": 650,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": 750,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Neal Maupay",
+                    "price": 1100,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nuno Mendes",
+                    "price": 1400,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Faris Moumbagna",
+                    "price": 1500,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Fabian Ruiz",
+                    "price": 2200,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Igor Paixao",
+                    "price": 2200,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": -650,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": -650,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": -600,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": -380,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": -340,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": -310,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": -260,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": -260,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Quentin Ndjantou",
+                    "price": -240,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Neal Maupay",
+                    "price": -175,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Faris Moumbagna",
+                    "price": -155,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nuno Mendes",
+                    "price": -155,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Igor Paixao",
+                    "price": -120,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Fabian Ruiz",
+                    "price": -115,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Achraf Hakimi",
+                    "price": -105,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Keyliane Abdallah",
+                    "price": -105,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Joao Pedro Goncalves Neves",
+                    "price": 100,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Angel Gomes",
+                    "price": 140,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Harit",
+                    "price": 140,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Himad Abdelli",
+                    "price": 150,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Digne",
+                    "price": 220,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Lopes Beraldo",
+                    "price": 230,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Timothy Weah",
+                    "price": 260,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Pierre-Emile Hojbjerg",
+                    "price": 260,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ulisses Garcia Lopes",
+                    "price": 300,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Tochukwu Nadi",
+                    "price": 350,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Lucas Hernandez",
+                    "price": 380,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Emerson Palmieri",
+                    "price": 390,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Nayef Aguerd",
+                    "price": 490,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Illia Zabarnyi",
+                    "price": 500,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Bamo Meite",
+                    "price": 1000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Cj Egan-Riley",
+                    "price": 1000,
+                    "point": 0.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ferran Torres Garcia",
+                    "price": 700,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Ousmane Dembele",
+                    "price": 700,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Khvicha Kvaratskhelia",
+                    "price": 750,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Mika Godts",
+                    "price": 1400,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Desire Doue",
+                    "price": 1700,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Maghnes Akliouche",
+                    "price": 1900,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Amine Gouiri",
+                    "price": 2000,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Senny Mayulu",
+                    "price": 2200,
+                    "point": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "alternate_totals_corners",
+                "last_update": "2026-09-20T02:39:05Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": -255,
+                    "point": 7.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": -145,
+                    "point": 8.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": 115,
+                    "point": 9.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": 185,
+                    "point": 10.5
+                  },
+                  {
+                    "name": "Over",
+                    "price": 295,
+                    "point": 11.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 175,
+                    "point": 7.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 105,
+                    "point": 8.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -160,
+                    "point": 9.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -270,
+                    "point": 10.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -475,
+                    "point": 11.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "2b9e09738f8627da46e42d85e4ccb478",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "2b9e09738f8627da46e42d85e4ccb478",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-09-20T18:45:00Z",
+        "home_team": "Marseille",
+        "away_team": "Paris Saint Germain",
+        "bookmakers": [
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "alternate_team_totals_corners",
+                "last_update": "2026-09-20T02:39:05Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "description": "Marseille",
+                    "price": 100,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Under",
+                    "description": "Marseille",
+                    "price": -135,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Paris Saint Germain",
+                    "price": -105,
+                    "point": 5.5
+                  },
+                  {
+                    "name": "Under",
+                    "description": "Paris Saint Germain",
+                    "price": -135,
+                    "point": 5.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "h2h",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "totals",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "btts",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "correct_score",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "player_shots",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "17694e68f399fdf9c5030021ec9bb595",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "17694e68f399fdf9c5030021ec9bb595",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-09T18:45:00Z",
+        "home_team": "RC Lens",
+        "away_team": "Lyon",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "h2h",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "totals",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "btts",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "correct_score",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "player_shots",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2c173b3bd3a1491f17fcad1012019c4f",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "2c173b3bd3a1491f17fcad1012019c4f",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T15:15:00Z",
+        "home_team": "Lille",
+        "away_team": "Le Havre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "h2h",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "totals",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "btts",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "correct_score",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "player_shots",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "c2c64ebfc5810226f807c1920d580392",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "c2c64ebfc5810226f807c1920d580392",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "AS Monaco",
+        "away_team": "Toulouse",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "h2h",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "totals",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "btts",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "correct_score",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "player_shots",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "007dc2ff845c33e3e18f2bd2bc126304",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "007dc2ff845c33e3e18f2bd2bc126304",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Brest",
+        "away_team": "Angers",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "h2h",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "totals",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "btts",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "correct_score",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "player_shots",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "2849460eb4d15adbb20ec15927a0fd4a",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "2849460eb4d15adbb20ec15927a0fd4a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Paris Saint Germain",
+        "away_team": "Le Mans FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "h2h",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "totals",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "btts",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "correct_score",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "player_shots",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "3aa72885e0aa107c62843749f7930a9a",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "3aa72885e0aa107c62843749f7930a9a",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-10T18:45:00Z",
+        "home_team": "Lorient",
+        "away_team": "Paris FC",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "h2h",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "totals",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "btts",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "correct_score",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "player_shots",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "5d3606630a2d3a218a6340d082c1bdc6",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "5d3606630a2d3a218a6340d082c1bdc6",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T13:00:00Z",
+        "home_team": "Nice",
+        "away_team": "Strasbourg",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "h2h",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "totals",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "btts",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "correct_score",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "player_shots",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "34f584ab922e220dc4f3b81217959d6d",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "34f584ab922e220dc4f3b81217959d6d",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T15:15:00Z",
+        "home_team": "Rennes",
+        "away_team": "Auxerre",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "h2h",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "totals",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "btts",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "correct_score",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "player_shots",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cb7067ac191abf32ad49dad45e46f639",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "cb7067ac191abf32ad49dad45e46f639",
+        "sport_key": "soccer_france_ligue_one",
+        "sport_title": "Ligue 1 - France",
+        "commence_time": "2026-10-11T18:45:00Z",
+        "home_team": "Troyes",
+        "away_team": "Marseille",
+        "bookmakers": []
+      }
+    }
+  ]
+}
