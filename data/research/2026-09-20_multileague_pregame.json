@@ -1,0 +1,1552 @@
+{
+  "date": "2026-09-20",
+  "status": "pre_lineup_research",
+  "skipped": [
+    "Fiorentina vs Napoli",
+    "Getafe vs Málaga"
+  ],
+  "purpose": "EDGE FC pre-match data collection before confirmed-lineup refreshes.",
+  "notes": [
+    "Odds are current snapshot prices from the repo and may move before kickoff.",
+    "Player props are watchlists only until confirmed starting XIs.",
+    "FanDuel team-designated goalkeeper saves remain the preferred save market and are not supplied by the Odds API."
+  ],
+  "matches": [
+    {
+      "league": "EPL",
+      "kickoff_et": "09:00",
+      "home": "Bournemouth",
+      "away": "Liverpool",
+      "market_snapshot_at": "2026-09-20T02:34:58.708162+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Bournemouth",
+          "odds": 210,
+          "book": "FanDuel",
+          "no_vig_pct": 30.9
+        },
+        {
+          "team": "Liverpool",
+          "odds": 115,
+          "book": "FanDuel",
+          "no_vig_pct": 44.5
+        },
+        {
+          "team": "Draw",
+          "odds": 290,
+          "book": "DraftKings",
+          "no_vig_pct": 24.6
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -240,
+          "book": "Fanatics"
+        },
+        {
+          "side": "No",
+          "odds": 200,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -166,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": 130,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Alexander Isak",
+          "odds_3plus": -155
+        },
+        {
+          "player": "Cody Gakpo",
+          "odds_3plus": -120
+        },
+        {
+          "player": "Rayan Vitor",
+          "odds_3plus": -115
+        },
+        {
+          "player": "Francisco Evanilson de Lima Barbosa",
+          "odds_3plus": -115
+        },
+        {
+          "player": "Bradley Barcola",
+          "odds_3plus": -110
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Alexander Isak",
+          "odds_1plus": -310
+        },
+        {
+          "player": "Francisco Evanilson de Lima Barbosa",
+          "odds_1plus": -210
+        },
+        {
+          "player": "Cody Gakpo",
+          "odds_1plus": -185
+        },
+        {
+          "player": "Bradley Barcola",
+          "odds_1plus": -185
+        },
+        {
+          "player": "Marcus Tavernier",
+          "odds_1plus": -175
+        }
+      ],
+      "form_notes": [
+        "Both clubs drew three of their first four Premier League matches.",
+        "Bournemouth were winless in four league matches despite leading in all four.",
+        "Bournemouth beat Real Sociedad 2-1 away in Europa League on Thursday, creating a short turnaround."
+      ],
+      "availability": [
+        "Bournemouth: Amine Adli, Julian Araujo, Junior Kroupi and Veljko Milosavljevic listed out.",
+        "Liverpool: Conor Bradley, Hugo Ekitike, Giovanni Leoni and Federico Chiesa listed out; Cody Gakpo returned in midweek."
+      ],
+      "model_flags": [
+        "European fatigue/rotation for Bournemouth.",
+        "Liverpool attack role allocation depends on Gakpo/Barcola/Wirtz/Isak XI."
+      ]
+    },
+    {
+      "league": "EPL",
+      "kickoff_et": "09:00",
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "market_snapshot_at": "2026-09-20T02:34:58.708162+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Manchester City",
+          "odds": -310,
+          "book": "DraftKings",
+          "no_vig_pct": 72.5
+        },
+        {
+          "team": "Sunderland",
+          "odds": 850,
+          "book": "FanDuel",
+          "no_vig_pct": 10.1
+        },
+        {
+          "team": "Draw",
+          "odds": 450,
+          "book": "Fanatics",
+          "no_vig_pct": 17.4
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -110,
+          "book": "DraftKings"
+        },
+        {
+          "side": "No",
+          "odds": -112,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -180,
+          "book": "Fanatics"
+        },
+        {
+          "side": "Under",
+          "odds": 140,
+          "book": "FanDuel"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Erling Braut Haaland",
+          "odds_3plus": -475
+        },
+        {
+          "player": "Antoine Semenyo",
+          "odds_3plus": -160
+        },
+        {
+          "player": "Rayan Cherki",
+          "odds_3plus": -155
+        },
+        {
+          "player": "Iliman-Cheikh Ndiaye",
+          "odds_3plus": -110
+        },
+        {
+          "player": "Enzo Fernandez",
+          "odds_3plus": 130
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Erling Braut Haaland",
+          "odds_1plus": -900
+        },
+        {
+          "player": "Antoine Semenyo",
+          "odds_1plus": -240
+        },
+        {
+          "player": "Iliman-Cheikh Ndiaye",
+          "odds_1plus": -200
+        },
+        {
+          "player": "Rayan Cherki",
+          "odds_1plus": -180
+        },
+        {
+          "player": "Enzo Fernandez",
+          "odds_1plus": -120
+        }
+      ],
+      "form_notes": [
+        "Manchester City started 4-0-0 in league play and Opta rated them 73.3% pre-match.",
+        "Sunderland beat AZ 1-0 in Europa League in midweek."
+      ],
+      "availability": [
+        "Manchester City: Phil Foden suspended; Jeremy Doku available but may start on bench.",
+        "Sunderland: Reinildo Mandava suspended; Habib Diarra and Romaine Mundle injured."
+      ],
+      "model_flags": [
+        "City possession/shot dominance expected; goalkeeper saves market likely more useful than City moneyline.",
+        "Sunderland have European-rest disadvantage."
+      ]
+    },
+    {
+      "league": "EPL",
+      "kickoff_et": "09:00",
+      "home": "Leeds United",
+      "away": "Crystal Palace",
+      "market_snapshot_at": "2026-09-20T02:34:58.708162+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Crystal Palace",
+          "odds": 390,
+          "book": "FanDuel",
+          "no_vig_pct": 19.7
+        },
+        {
+          "team": "Leeds United",
+          "odds": -140,
+          "book": "DraftKings",
+          "no_vig_pct": 56.2
+        },
+        {
+          "team": "Draw",
+          "odds": 300,
+          "book": "Fanatics",
+          "no_vig_pct": 24.1
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -150,
+          "book": "Fanatics"
+        },
+        {
+          "side": "No",
+          "odds": 124,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -112,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": -115,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Dominic Calvert-Lewin",
+          "odds_3plus": -190
+        },
+        {
+          "player": "Anton Stach",
+          "odds_3plus": -130
+        },
+        {
+          "player": "Noah Okafor",
+          "odds_3plus": -115
+        },
+        {
+          "player": "Jorgen Strand Larsen",
+          "odds_3plus": 100
+        },
+        {
+          "player": "Yeremi Pino",
+          "odds_3plus": 160
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Dominic Calvert-Lewin",
+          "odds_1plus": -310
+        },
+        {
+          "player": "Jorgen Strand Larsen",
+          "odds_1plus": -200
+        },
+        {
+          "player": "Noah Okafor",
+          "odds_1plus": -185
+        },
+        {
+          "player": "Anton Stach",
+          "odds_1plus": -140
+        },
+        {
+          "player": "Yeremi Pino",
+          "odds_1plus": -120
+        }
+      ],
+      "form_notes": [
+        "Leeds entered third and unbeaten; Opta gave Leeds 53.3% win probability.",
+        "Palace had allowed league-high 8.15 xG, 11 goals, joint-most 26 SOT and 164 opposition box touches through four matches."
+      ],
+      "availability": [
+        "Leeds: Harry Wilson out; Joe Rodon and Mateo Joseph remain out; Ilia Gruev available.",
+        "Palace: Axel Disasi suspended; Dean Henderson and Jean-Philippe Mateta out; Ismaila Sarr may start but not play 90."
+      ],
+      "model_flags": [
+        "Leeds attacking shot/SOT props and Palace team-GK saves are priority markets."
+      ]
+    },
+    {
+      "league": "EPL",
+      "kickoff_et": "11:30",
+      "home": "Fulham",
+      "away": "Manchester United",
+      "market_snapshot_at": "2026-09-20T02:34:58.708162+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Fulham",
+          "odds": 250,
+          "book": "FanDuel",
+          "no_vig_pct": 27.2
+        },
+        {
+          "team": "Manchester United",
+          "odds": 100,
+          "book": "FanDuel",
+          "no_vig_pct": 47.7
+        },
+        {
+          "team": "Draw",
+          "odds": 280,
+          "book": "Fanatics",
+          "no_vig_pct": 25.1
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -210,
+          "book": "Fanatics"
+        },
+        {
+          "side": "No",
+          "odds": 172,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -148,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": 112,
+          "book": "FanDuel"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Matheus Cunha",
+          "odds_3plus": -150
+        },
+        {
+          "player": "Gonzalo Garcia",
+          "odds_3plus": -120
+        },
+        {
+          "player": "Marcus Rashford",
+          "odds_3plus": -120
+        },
+        {
+          "player": "Bryan Mbeumo",
+          "odds_3plus": -115
+        },
+        {
+          "player": "Bruno Fernandes",
+          "odds_3plus": 100
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Matheus Cunha",
+          "odds_1plus": -220
+        },
+        {
+          "player": "Bryan Mbeumo",
+          "odds_1plus": -195
+        },
+        {
+          "player": "Gonzalo Garcia",
+          "odds_1plus": -185
+        },
+        {
+          "player": "Marcus Rashford",
+          "odds_1plus": -180
+        },
+        {
+          "player": "Patrick Dorgu",
+          "odds_1plus": -155
+        }
+      ],
+      "form_notes": [
+        "Manchester United had four points from first four league matches; Opta win probability 48.3%.",
+        "Fulham were winless through four league matches and had lost eight of their previous 10 home league meetings with United."
+      ],
+      "availability": [
+        "Fulham: Kenny Tete and Tom Cairney out; Ryan Sessegnon late fitness test.",
+        "Manchester United: Luke Shaw doubtful; striker/left-wing allocation among Sesko, Cunha and Rashford unresolved."
+      ],
+      "model_flags": [
+        "Wait for United front-line XI before player props.",
+        "BTTS market already heavily taxed."
+      ]
+    },
+    {
+      "league": "SerieA",
+      "kickoff_et": "09:00",
+      "home": "Frosinone",
+      "away": "Como",
+      "market_snapshot_at": "2026-09-20T02:39:20.793165+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Como",
+          "odds": -200,
+          "book": "Fanatics",
+          "no_vig_pct": 63.4
+        },
+        {
+          "team": "Frosinone",
+          "odds": 500,
+          "book": "FanDuel",
+          "no_vig_pct": 15.9
+        },
+        {
+          "team": "Draw",
+          "odds": 360,
+          "book": "FanDuel",
+          "no_vig_pct": 20.7
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -176,
+          "book": "FanDuel"
+        },
+        {
+          "side": "No",
+          "odds": 150,
+          "book": "DraftKings"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -110,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": -110,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Nicolas Paz",
+          "odds_3plus": -1100
+        },
+        {
+          "player": "Anastasios Douvikas",
+          "odds_3plus": -310
+        },
+        {
+          "player": "Jesus Rodriguez Caraballo",
+          "odds_3plus": -220
+        },
+        {
+          "player": "Assane Diao",
+          "odds_3plus": -210
+        },
+        {
+          "player": "Mattia Liberali",
+          "odds_3plus": -180
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Nicolas Paz",
+          "odds_1plus": -650
+        },
+        {
+          "player": "Anastasios Douvikas",
+          "odds_1plus": -425
+        },
+        {
+          "player": "Assane Diao",
+          "odds_1plus": -220
+        },
+        {
+          "player": "Martin Baturina",
+          "odds_1plus": -200
+        },
+        {
+          "player": "Tomas Bobcek",
+          "odds_1plus": -180
+        }
+      ],
+      "form_notes": [
+        "Frosinone had seven points and seven goals; Antonio Raimondo had four goals.",
+        "Como were unbeaten with 10 points and nine goals."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Como strongly favored but Frosinone early-season attack is real.",
+        "Nico Paz/Douvikas/Diao player volume needs XI confirmation."
+      ]
+    },
+    {
+      "league": "SerieA",
+      "kickoff_et": "09:00",
+      "home": "Parma",
+      "away": "Genoa",
+      "market_snapshot_at": "2026-09-20T02:39:20.793165+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Genoa",
+          "odds": 155,
+          "book": "FanDuel",
+          "no_vig_pct": 37.4
+        },
+        {
+          "team": "Parma",
+          "odds": 210,
+          "book": "FanDuel",
+          "no_vig_pct": 30.8
+        },
+        {
+          "team": "Draw",
+          "odds": 200,
+          "book": "Fanatics",
+          "no_vig_pct": 31.8
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": 108,
+          "book": "FanDuel"
+        },
+        {
+          "side": "No",
+          "odds": -130,
+          "book": "DraftKings"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": 134,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": -165,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "David Romero",
+          "odds_3plus": -170
+        },
+        {
+          "player": "Lorenzo Colombo",
+          "odds_3plus": -155
+        },
+        {
+          "player": "El Bilal Toure",
+          "odds_3plus": -140
+        },
+        {
+          "player": "Junior Messias",
+          "odds_3plus": -125
+        },
+        {
+          "player": "Matija Frigan",
+          "odds_3plus": -125
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "David Romero",
+          "odds_1plus": -210
+        },
+        {
+          "player": "Lorenzo Colombo",
+          "odds_1plus": -200
+        },
+        {
+          "player": "Milutin Osmajic",
+          "odds_1plus": -185
+        },
+        {
+          "player": "El Bilal Toure",
+          "odds_1plus": -165
+        },
+        {
+          "player": "Nesta Elphege",
+          "odds_1plus": -155
+        }
+      ],
+      "form_notes": [
+        "Both teams had one point and two goals scored through four matches."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Low-event profile; total/BTTS No more interesting than side.",
+        "Player shot ladders should be treated cautiously in low team-volume environment."
+      ]
+    },
+    {
+      "league": "SerieA",
+      "kickoff_et": "12:00",
+      "home": "Juventus",
+      "away": "Atalanta BC",
+      "market_snapshot_at": "2026-09-20T02:39:20.793165+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Atalanta BC",
+          "odds": 410,
+          "book": "FanDuel",
+          "no_vig_pct": 18.7
+        },
+        {
+          "team": "Juventus",
+          "odds": -145,
+          "book": "Fanatics",
+          "no_vig_pct": 56.3
+        },
+        {
+          "team": "Draw",
+          "odds": 280,
+          "book": "Fanatics",
+          "no_vig_pct": 25
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -125,
+          "book": "DraftKings"
+        },
+        {
+          "side": "No",
+          "odds": 106,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": 106,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": -115,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Randal Kolo Muani",
+          "odds_3plus": -350
+        },
+        {
+          "player": "Francisco Conceicao",
+          "odds_3plus": -350
+        },
+        {
+          "player": "Nick Woltemade",
+          "odds_3plus": -260
+        },
+        {
+          "player": "Kerim Alajbegovic",
+          "odds_3plus": -220
+        },
+        {
+          "player": "Edon Zhegrova",
+          "odds_3plus": -210
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Randal Kolo Muani",
+          "odds_1plus": -425
+        },
+        {
+          "player": "Francisco Conceicao",
+          "odds_1plus": -370
+        },
+        {
+          "player": "Nick Woltemade",
+          "odds_1plus": -320
+        },
+        {
+          "player": "Edon Zhegrova",
+          "odds_1plus": -290
+        },
+        {
+          "player": "Kerim Alajbegovic",
+          "odds_1plus": -250
+        }
+      ],
+      "form_notes": [
+        "Juventus had seven points with four goals conceded.",
+        "Atalanta had six points, five goals scored and five conceded."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Juventus played Europa League Thursday, creating short rest.",
+        "Potential rotation makes player props lineup-sensitive."
+      ]
+    },
+    {
+      "league": "SerieA",
+      "kickoff_et": "14:45",
+      "home": "AC Milan",
+      "away": "Lecce",
+      "market_snapshot_at": "2026-09-20T02:39:20.793165+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "AC Milan",
+          "odds": -400,
+          "book": "Fanatics",
+          "no_vig_pct": 75.4
+        },
+        {
+          "team": "Lecce",
+          "odds": 1050,
+          "book": "Fanatics",
+          "no_vig_pct": 8.2
+        },
+        {
+          "team": "Draw",
+          "odds": 475,
+          "book": "Fanatics",
+          "no_vig_pct": 16.4
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": 120,
+          "book": "DraftKings"
+        },
+        {
+          "side": "No",
+          "odds": -134,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": 140,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": -165,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Goncalo Matias Ramos",
+          "odds_3plus": -500
+        },
+        {
+          "player": "Francesco Camarda",
+          "odds_3plus": -320
+        },
+        {
+          "player": "Alphadjo Cisse",
+          "odds_3plus": -230
+        },
+        {
+          "player": "Christian Pulisic",
+          "odds_3plus": -185
+        },
+        {
+          "player": "Ruben Loftus-Cheek",
+          "odds_3plus": -185
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Goncalo Matias Ramos",
+          "odds_1plus": -550
+        },
+        {
+          "player": "Francesco Camarda",
+          "odds_1plus": -475
+        },
+        {
+          "player": "Christian Pulisic",
+          "odds_1plus": -320
+        },
+        {
+          "player": "Alphadjo Cisse",
+          "odds_1plus": -300
+        },
+        {
+          "player": "Ruben Loftus-Cheek",
+          "odds_1plus": -250
+        }
+      ],
+      "form_notes": [
+        "Milan were unbeaten in league play with eight points.",
+        "Lecce had six points, five scored and seven conceded."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Milan heavy favorite; opposing GK saves and Milan team shot/SOT markets likely preferable to -400 ML."
+      ]
+    },
+    {
+      "league": "Ligue1",
+      "kickoff_et": "09:00",
+      "home": "Auxerre",
+      "away": "Brest",
+      "market_snapshot_at": "2026-09-20T02:39:24.058416+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Auxerre",
+          "odds": 185,
+          "book": "FanDuel",
+          "no_vig_pct": 33.4
+        },
+        {
+          "team": "Brest",
+          "odds": 140,
+          "book": "FanDuel",
+          "no_vig_pct": 39.7
+        },
+        {
+          "team": "Draw",
+          "odds": 255,
+          "book": "DraftKings",
+          "no_vig_pct": 26.8
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -160,
+          "book": "DraftKings"
+        },
+        {
+          "side": "No",
+          "odds": 132,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -140,
+          "book": "DraftKings"
+        },
+        {
+          "side": "Under",
+          "odds": 100,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [],
+      "sot_watch": [],
+      "form_notes": [
+        "Brest sat seventh with five points; Auxerre 15th with three.",
+        "Brest ranked second in Ligue 1 expected goals in the cited Matchweek preview.",
+        "Kamory Doumia and Lassine Sinayoko were tied among league scoring leaders with four."
+      ],
+      "availability": [],
+      "model_flags": [
+        "No player shot/SOT props currently in API feed.",
+        "Brest attacking volume and Auxerre GK saves are priority if markets appear."
+      ]
+    },
+    {
+      "league": "Ligue1",
+      "kickoff_et": "11:15",
+      "home": "Nice",
+      "away": "Lille",
+      "market_snapshot_at": "2026-09-20T02:39:24.058416+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Lille",
+          "odds": 105,
+          "book": "FanDuel",
+          "no_vig_pct": 46.7
+        },
+        {
+          "team": "Nice",
+          "odds": 270,
+          "book": "DraftKings",
+          "no_vig_pct": 25.9
+        },
+        {
+          "team": "Draw",
+          "odds": 250,
+          "book": "DraftKings",
+          "no_vig_pct": 27.4
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -140,
+          "book": "FanDuel"
+        },
+        {
+          "side": "No",
+          "odds": 110,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -125,
+          "book": "DraftKings"
+        },
+        {
+          "side": "Under",
+          "odds": -115,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Ethan Mbappe",
+          "odds_3plus": -160
+        },
+        {
+          "player": "Ayase Ueda",
+          "odds_3plus": -135
+        },
+        {
+          "player": "Olivier Giroud",
+          "odds_3plus": -130
+        },
+        {
+          "player": "Dilane Bakwa",
+          "odds_3plus": -120
+        },
+        {
+          "player": "Hakon Arnar Haraldsson",
+          "odds_3plus": 125
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Olivier Giroud",
+          "odds_1plus": -320
+        },
+        {
+          "player": "Ayase Ueda",
+          "odds_1plus": -290
+        },
+        {
+          "player": "Dilane Bakwa",
+          "odds_1plus": -220
+        },
+        {
+          "player": "Ethan Mbappe",
+          "odds_1plus": -210
+        },
+        {
+          "player": "Gaetan Perrin",
+          "odds_1plus": -185
+        }
+      ],
+      "form_notes": [
+        "Lille were the only unbeaten Ligue 1 team and shared the league lead.",
+        "Nice were winless and bottom with two points.",
+        "Lille goalkeeper Berke Özer had three clean sheets."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Lille side price +105 is a key market checkpoint.",
+        "Need XI to resolve Giroud/Ueda/Ethan Mbappé attacking roles."
+      ]
+    },
+    {
+      "league": "Ligue1",
+      "kickoff_et": "14:45",
+      "home": "Marseille",
+      "away": "Paris Saint Germain",
+      "market_snapshot_at": "2026-09-20T02:39:24.058416+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Marseille",
+          "odds": 650,
+          "book": "Fanatics",
+          "no_vig_pct": 12.9
+        },
+        {
+          "team": "Paris Saint Germain",
+          "odds": -260,
+          "book": "DraftKings",
+          "no_vig_pct": 69.6
+        },
+        {
+          "team": "Draw",
+          "odds": 450,
+          "book": "Fanatics",
+          "no_vig_pct": 17.5
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -175,
+          "book": "DraftKings"
+        },
+        {
+          "side": "No",
+          "odds": 138,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": 115,
+          "book": "DraftKings"
+        },
+        {
+          "side": "Under",
+          "odds": -160,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Ousmane Dembele",
+          "odds_3plus": -390
+        },
+        {
+          "player": "Ferran Torres Garcia",
+          "odds_3plus": -360
+        },
+        {
+          "player": "Khvicha Kvaratskhelia",
+          "odds_3plus": -330
+        },
+        {
+          "player": "Mika Godts",
+          "odds_3plus": -320
+        },
+        {
+          "player": "Desire Doue",
+          "odds_3plus": -250
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Ferran Torres Garcia",
+          "odds_1plus": -650
+        },
+        {
+          "player": "Ousmane Dembele",
+          "odds_1plus": -650
+        },
+        {
+          "player": "Khvicha Kvaratskhelia",
+          "odds_1plus": -600
+        },
+        {
+          "player": "Mika Godts",
+          "odds_1plus": -380
+        },
+        {
+          "player": "Desire Doue",
+          "odds_1plus": -340
+        }
+      ],
+      "form_notes": [
+        "Marseille had one league win in four and sat 13th in cited preview.",
+        "PSG were priced as the largest Ligue 1 favorite despite away venue.",
+        "Amine Gouiri had four league goals for Marseille."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Both clubs have European scheduling considerations.",
+        "PSG player props and Marseille GK saves may offer better value than ML."
+      ]
+    },
+    {
+      "league": "LaLiga",
+      "kickoff_et": "10:15",
+      "home": "Atlético Madrid",
+      "away": "Real Madrid",
+      "market_snapshot_at": "2026-09-20T02:41:23.609835+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Atlético Madrid",
+          "odds": 260,
+          "book": "FanDuel",
+          "no_vig_pct": 26.9
+        },
+        {
+          "team": "Real Madrid",
+          "odds": 100,
+          "book": "Fanatics",
+          "no_vig_pct": 48.3
+        },
+        {
+          "team": "Draw",
+          "odds": 290,
+          "book": "DraftKings",
+          "no_vig_pct": 24.8
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -245,
+          "book": "DraftKings"
+        },
+        {
+          "side": "No",
+          "odds": 194,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -154,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": 125,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Kylian Mbappe",
+          "odds_3plus": -550
+        },
+        {
+          "player": "Alexander Sorloth",
+          "odds_3plus": -310
+        },
+        {
+          "player": "Carlos Espi",
+          "odds_3plus": -290
+        },
+        {
+          "player": "Endrick Felipe Moreira de Sousa",
+          "odds_3plus": -240
+        },
+        {
+          "player": "Ademola Lookman",
+          "odds_3plus": -210
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Kylian Mbappe",
+          "odds_1plus": -800
+        },
+        {
+          "player": "Alexander Sorloth",
+          "odds_1plus": -390
+        },
+        {
+          "player": "Carlos Espi",
+          "odds_1plus": -390
+        },
+        {
+          "player": "Endrick Felipe Moreira de Sousa",
+          "odds_1plus": -350
+        },
+        {
+          "player": "Julian Alvarez",
+          "odds_1plus": -320
+        }
+      ],
+      "form_notes": [
+        "Real Madrid were 5-0-1 with 17 goals scored and six conceded through six league matches.",
+        "Atlético were 4-1-1 with 14 scored and six conceded.",
+        "Real had gone four matches without a clean sheet entering the derby."
+      ],
+      "availability": [
+        "Atlético: Alexander Sørloth and Pablo Barrios expected out; Julián Álvarez returned and could feature.",
+        "Real Madrid: Éder Militão, Ferland Mendy and Rodrygo still recovering."
+      ],
+      "model_flags": [
+        "Derby variance; avoid over-weighting H2H.",
+        "BTTS market heavily juiced; player volume more promising after XI."
+      ]
+    },
+    {
+      "league": "LaLiga",
+      "kickoff_et": "12:30",
+      "home": "Villarreal",
+      "away": "Levante",
+      "market_snapshot_at": "2026-09-20T02:41:23.609835+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Levante",
+          "odds": 475,
+          "book": "Fanatics",
+          "no_vig_pct": 16.7
+        },
+        {
+          "team": "Villarreal",
+          "odds": -190,
+          "book": "DraftKings",
+          "no_vig_pct": 63
+        },
+        {
+          "team": "Draw",
+          "odds": 375,
+          "book": "Fanatics",
+          "no_vig_pct": 20.3
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -175,
+          "book": "DraftKings"
+        },
+        {
+          "side": "No",
+          "odds": 142,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": -122,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": 100,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Georges Mikautadze",
+          "odds_3plus": -270
+        },
+        {
+          "player": "Tani Oluwaseyi",
+          "odds_3plus": -190
+        },
+        {
+          "player": "Ayoze Perez",
+          "odds_3plus": -170
+        },
+        {
+          "player": "Gerard Moreno",
+          "odds_3plus": -165
+        },
+        {
+          "player": "Ilias Akhomach",
+          "odds_3plus": -145
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Georges Mikautadze",
+          "odds_1plus": -550
+        },
+        {
+          "player": "Tani Oluwaseyi",
+          "odds_1plus": -425
+        },
+        {
+          "player": "Gerard Moreno",
+          "odds_1plus": -340
+        },
+        {
+          "player": "Ayoze Perez",
+          "odds_1plus": -340
+        },
+        {
+          "player": "Nicolas Pepe",
+          "odds_1plus": -270
+        }
+      ],
+      "form_notes": [
+        "Villarreal beat Málaga 3-1 on Thursday after losing 2-1 to Betis.",
+        "Levante were around mid-lower table with five points in available pre-match table."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Villarreal short-rest/rotation risk after Thursday match.",
+        "Mikautadze/Ayoze/Gerard Moreno role split requires XI."
+      ]
+    },
+    {
+      "league": "LaLiga",
+      "kickoff_et": "12:30",
+      "home": "Deportivo La Coruña",
+      "away": "Real Betis",
+      "market_snapshot_at": "2026-09-20T02:41:23.609835+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Deportivo La Coruña",
+          "odds": 250,
+          "book": "Fanatics",
+          "no_vig_pct": 27.4
+        },
+        {
+          "team": "Real Betis",
+          "odds": 105,
+          "book": "DraftKings",
+          "no_vig_pct": 46.7
+        },
+        {
+          "team": "Draw",
+          "odds": 270,
+          "book": "FanDuel",
+          "no_vig_pct": 25.9
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -148,
+          "book": "FanDuel"
+        },
+        {
+          "side": "No",
+          "odds": 120,
+          "book": "DraftKings"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": 100,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": -115,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Antony Matheus dos Santos",
+          "odds_3plus": -290
+        },
+        {
+          "player": "Troy Parrott",
+          "odds_3plus": -220
+        },
+        {
+          "player": "Abdessamad Ezzalzouli",
+          "odds_3plus": -175
+        },
+        {
+          "player": "Pierre-Emerick Aubameyang",
+          "odds_3plus": -155
+        },
+        {
+          "player": "Isco",
+          "odds_3plus": -115
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Antony Matheus dos Santos",
+          "odds_1plus": -310
+        },
+        {
+          "player": "Troy Parrott",
+          "odds_1plus": -310
+        },
+        {
+          "player": "Abdessamad Ezzalzouli",
+          "odds_1plus": -270
+        },
+        {
+          "player": "Rodrigo Riquelme Reche",
+          "odds_1plus": -260
+        },
+        {
+          "player": "Pierre-Emerick Aubameyang",
+          "odds_1plus": -260
+        }
+      ],
+      "form_notes": [
+        "Deportivo had nine points after six and had just suffered their first league defeat.",
+        "Betis had five wins in six after beating Getafe 1-0."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Betis +105 is a notable near-even away favorite.",
+        "Aubameyang had scored in five consecutive opening league games according to current reporting."
+      ]
+    },
+    {
+      "league": "LaLiga",
+      "kickoff_et": "15:00",
+      "home": "Valencia",
+      "away": "Real Sociedad",
+      "market_snapshot_at": "2026-09-20T02:41:23.609835+00:00",
+      "no_vig_1x2": [
+        {
+          "team": "Real Sociedad",
+          "odds": 165,
+          "book": "DraftKings",
+          "no_vig_pct": 36.7
+        },
+        {
+          "team": "Valencia",
+          "odds": 180,
+          "book": "FanDuel",
+          "no_vig_pct": 34.7
+        },
+        {
+          "team": "Draw",
+          "odds": 240,
+          "book": "Fanatics",
+          "no_vig_pct": 28.6
+        }
+      ],
+      "btts": [
+        {
+          "side": "Yes",
+          "odds": -145,
+          "book": "DraftKings"
+        },
+        {
+          "side": "No",
+          "odds": 120,
+          "book": "FanDuel"
+        }
+      ],
+      "corners_9_5": [
+        {
+          "side": "Over",
+          "odds": 126,
+          "book": "FanDuel"
+        },
+        {
+          "side": "Under",
+          "odds": -140,
+          "book": "DraftKings"
+        }
+      ],
+      "shot_watch": [
+        {
+          "player": "Orri Steinn Oskarsson",
+          "odds_3plus": -140
+        },
+        {
+          "player": "Hugo Durou",
+          "odds_3plus": -130
+        },
+        {
+          "player": "Daniel Raba",
+          "odds_3plus": -130
+        },
+        {
+          "player": "Mikel Oyarzabal",
+          "odds_3plus": -115
+        },
+        {
+          "player": "Javier Guerra",
+          "odds_3plus": 100
+        }
+      ],
+      "sot_watch": [
+        {
+          "player": "Orri Steinn Oskarsson",
+          "odds_1plus": -290
+        },
+        {
+          "player": "Mikel Oyarzabal",
+          "odds_1plus": -270
+        },
+        {
+          "player": "Hugo Durou",
+          "odds_1plus": -220
+        },
+        {
+          "player": "Daniel Raba",
+          "odds_1plus": -165
+        },
+        {
+          "player": "Goncalo Guedes",
+          "odds_1plus": -165
+        }
+      ],
+      "form_notes": [
+        "Available pre-match table showed Real Sociedad 2-1-3 with 7 points; Valencia had struggled near the bottom.",
+        "Valencia home matches had a five-game Under 2.5 trend in the available matchup feed.",
+        "Real Sociedad lost 2-1 to Bournemouth in Europa League on Thursday."
+      ],
+      "availability": [],
+      "model_flags": [
+        "Low-total candidate; Sociedad short rest/travel adds uncertainty.",
+        "Goalkeeper and low SOT markets may be more useful than side."
+      ]
+    }
+  ]
+}
