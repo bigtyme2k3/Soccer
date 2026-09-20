@@ -4,7 +4,7 @@
   "slate": "7:30 ET first wave",
   "frozen_at_utc": "2026-09-19T22:54:16.560907+00:00",
   "source_snapshot": "data/odds/mls_latest.json",
-  "status": "pregame_frozen",
+  "status": "graded",
   "matches": [
     {
       "match": "CF Montreal vs Columbus Crew SC",
@@ -156,5 +156,161 @@
       "break_even_pct": 56.5,
       "status": "LEAN"
     }
-  ]
+  ],
+  "graded_at": "2026-09-20T02:32:00Z",
+  "results": [
+    {
+      "match": "CF Montreal vs Columbus Crew SC",
+      "result": {
+        "ft": "0-2",
+        "ht": "0-0",
+        "btts": "No",
+        "shots": {
+          "home": 9,
+          "away": 13
+        },
+        "sot": {
+          "home": 2,
+          "away": 3
+        },
+        "corners": {
+          "home": 5,
+          "away": 1
+        },
+        "gk_saves": {
+          "home": 1,
+          "away": 2
+        }
+      },
+      "grade": {
+        "ft_exact": false,
+        "ht_exact": true,
+        "btts": false
+      }
+    },
+    {
+      "match": "D.C. United vs Charlotte FC",
+      "result": {
+        "ft": "1-2",
+        "ht": "0-1",
+        "btts": "Yes",
+        "shots": {
+          "home": 31,
+          "away": 10
+        },
+        "sot": {
+          "home": 11,
+          "away": 7
+        },
+        "corners": {
+          "home": 4,
+          "away": 3
+        },
+        "gk_saves": {
+          "home": 5,
+          "away": 10
+        }
+      },
+      "grade": {
+        "ft_exact": true,
+        "ht_exact": true,
+        "btts": true
+      }
+    },
+    {
+      "match": "New England Revolution vs Orlando City SC",
+      "result": {
+        "ft": "4-2",
+        "ht": "1-0",
+        "btts": "Yes",
+        "shots": {
+          "home": 17,
+          "away": 11
+        },
+        "sot": {
+          "home": 9,
+          "away": 5
+        },
+        "corners": {
+          "home": 10,
+          "away": 3
+        },
+        "gk_saves": {
+          "home": 3,
+          "away": 5
+        }
+      },
+      "grade": {
+        "ft_exact": false,
+        "ht_exact": true,
+        "btts": true
+      }
+    },
+    {
+      "match": "San Jose Earthquakes vs Los Angeles FC",
+      "result": {
+        "ft": "2-2",
+        "ht": "0-1",
+        "btts": "Yes",
+        "shots": {
+          "home": 21,
+          "away": 3
+        },
+        "sot": {
+          "home": 9,
+          "away": 2
+        },
+        "corners": {
+          "home": 15,
+          "away": 3
+        },
+        "gk_saves": {
+          "home": 0,
+          "away": 7
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "grade": {
+        "ft_exact": true,
+        "ht_exact": false,
+        "btts": true
+      },
+      "note": "Aaron Long (LAFC) straight red at 36' materially changed game-state and shot/corner volume."
+    }
+  ],
+  "bet_results": [
+    {
+      "bet": "San Jose Earthquakes vs Los Angeles FC Over 9.5 corners",
+      "odds": "-110",
+      "stake_units": 0.5,
+      "result": "WIN",
+      "actual_total_corners": 18,
+      "profit_units": 0.454545
+    },
+    {
+      "bet": "New England Revolution moneyline",
+      "odds": "-145",
+      "stake_units": 0.25,
+      "result": "WIN",
+      "profit_units": 0.172414
+    }
+  ],
+  "betting_summary": {
+    "wins": 2,
+    "losses": 0,
+    "stake_units": 0.75,
+    "profit_units": 0.626959,
+    "roi_pct": 83.59
+  },
+  "prediction_summary": {
+    "ft_exact": 2,
+    "ft_total": 4,
+    "ht_exact": 3,
+    "ht_total": 4,
+    "btts_correct": 3,
+    "btts_total": 4
+  }
 }
