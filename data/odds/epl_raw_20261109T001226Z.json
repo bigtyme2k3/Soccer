@@ -1,0 +1,3897 @@
+{
+  "fetched_at": "2026-11-09T00:12:26.245425+00:00",
+  "sport": "soccer_epl",
+  "events": [
+    {
+      "id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-21T12:30:00Z",
+      "home_team": "Manchester City",
+      "away_team": "Fulham"
+    },
+    {
+      "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-21T15:00:00Z",
+      "home_team": "Aston Villa",
+      "away_team": "Sunderland"
+    },
+    {
+      "id": "cf68da11fa604c13fc9ef3219fad0314",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-21T15:00:00Z",
+      "home_team": "Bournemouth",
+      "away_team": "Nottingham Forest"
+    },
+    {
+      "id": "ac6cf70520a83c0949b4003bde53c709",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-21T15:00:00Z",
+      "home_team": "Chelsea",
+      "away_team": "Leeds United"
+    },
+    {
+      "id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-21T15:00:00Z",
+      "home_team": "Coventry City",
+      "away_team": "Crystal Palace"
+    },
+    {
+      "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-21T15:00:00Z",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Ipswich Town"
+    },
+    {
+      "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-21T17:30:00Z",
+      "home_team": "Newcastle United",
+      "away_team": "Arsenal"
+    },
+    {
+      "id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-22T14:00:00Z",
+      "home_team": "Hull City",
+      "away_team": "Brighton and Hove Albion"
+    },
+    {
+      "id": "4c08b213ed416e8f41e038f42a42b962",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-22T16:30:00Z",
+      "home_team": "Liverpool",
+      "away_team": "Manchester United"
+    },
+    {
+      "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "sport_key": "soccer_epl",
+      "sport_title": "EPL",
+      "commence_time": "2026-11-23T20:00:00Z",
+      "home_team": "Brentford",
+      "away_team": "Everton"
+    }
+  ],
+  "event_markets": [
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "h2h",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Fulham",
+                    "price": 550
+                  },
+                  {
+                    "name": "Manchester City",
+                    "price": -240
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 400
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Fulham",
+                    "price": 475
+                  },
+                  {
+                    "name": "Manchester City",
+                    "price": -220
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 370
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Fulham",
+                    "price": 500
+                  },
+                  {
+                    "name": "Manchester City",
+                    "price": -240
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 380
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "totals",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "totals",
+                "last_update": "2026-11-09T00:11:41Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": 130,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": -160,
+                    "point": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "btts",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:12:26Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -165
+                  },
+                  {
+                    "name": "No",
+                    "price": 125
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:39Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -160
+                  },
+                  {
+                    "name": "No",
+                    "price": 115
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:41Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -154
+                  },
+                  {
+                    "name": "No",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "correct_score",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:12:26Z",
+                "outcomes": [
+                  {
+                    "name": "Manchester City:1|Fulham:0",
+                    "price": 750
+                  },
+                  {
+                    "name": "Fulham:1|Manchester City:0",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Manchester City:2|Fulham:0",
+                    "price": 700
+                  },
+                  {
+                    "name": "Fulham:2|Manchester City:0",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Manchester City:3|Fulham:0",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Fulham:3|Manchester City:0",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Manchester City:4|Fulham:0",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Manchester City:5|Fulham:0",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Manchester City:2|Fulham:1",
+                    "price": 600
+                  },
+                  {
+                    "name": "Fulham:2|Manchester City:1",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Manchester City:3|Fulham:1",
+                    "price": 850
+                  },
+                  {
+                    "name": "Fulham:3|Manchester City:1",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Manchester City:4|Fulham:1",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Fulham:4|Manchester City:1",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Manchester City:5|Fulham:1",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Manchester City:3|Fulham:2",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Fulham:3|Manchester City:2",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Manchester City:4|Fulham:2",
+                    "price": 2800
+                  },
+                  {
+                    "name": "Fulham:4|Manchester City:2",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Manchester City:5|Fulham:2",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Manchester City:4|Fulham:3",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Manchester City:5|Fulham:3",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Manchester City:0|Fulham:0",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Manchester City:1|Fulham:1",
+                    "price": 850
+                  },
+                  {
+                    "name": "Manchester City:2|Fulham:2",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Manchester City:3|Fulham:3",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Manchester City:6|Fulham:0",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Manchester City:6|Fulham:1",
+                    "price": 9000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "player_shots",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "6ef39b0fd8839f6e93a3de32523e9807",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "6ef39b0fd8839f6e93a3de32523e9807",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T12:30:00Z",
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "h2h",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Aston Villa",
+                    "price": -140
+                  },
+                  {
+                    "name": "Sunderland",
+                    "price": 350
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 300
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Aston Villa",
+                    "price": -140
+                  },
+                  {
+                    "name": "Sunderland",
+                    "price": 350
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 280
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Aston Villa",
+                    "price": -150
+                  },
+                  {
+                    "name": "Sunderland",
+                    "price": 350
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 290
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "totals",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "totals",
+                "last_update": "2026-11-09T00:11:30Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": -134,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 110,
+                    "point": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "btts",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:22Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -140
+                  },
+                  {
+                    "name": "No",
+                    "price": 105
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:47Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -150
+                  },
+                  {
+                    "name": "No",
+                    "price": 105
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:30Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -136
+                  },
+                  {
+                    "name": "No",
+                    "price": 108
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "correct_score",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:11:22Z",
+                "outcomes": [
+                  {
+                    "name": "Aston Villa:1|Sunderland:0",
+                    "price": 600
+                  },
+                  {
+                    "name": "Sunderland:1|Aston Villa:0",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Aston Villa:2|Sunderland:0",
+                    "price": 700
+                  },
+                  {
+                    "name": "Sunderland:2|Aston Villa:0",
+                    "price": 2200
+                  },
+                  {
+                    "name": "Aston Villa:3|Sunderland:0",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Sunderland:3|Aston Villa:0",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Aston Villa:4|Sunderland:0",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Aston Villa:5|Sunderland:0",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Aston Villa:2|Sunderland:1",
+                    "price": 650
+                  },
+                  {
+                    "name": "Sunderland:2|Aston Villa:1",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Aston Villa:3|Sunderland:1",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Sunderland:3|Aston Villa:1",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Aston Villa:4|Sunderland:1",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Sunderland:4|Aston Villa:1",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Aston Villa:5|Sunderland:1",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Aston Villa:3|Sunderland:2",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Sunderland:3|Aston Villa:2",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Aston Villa:4|Sunderland:2",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Sunderland:4|Aston Villa:2",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Aston Villa:5|Sunderland:2",
+                    "price": 10000
+                  },
+                  {
+                    "name": "Aston Villa:4|Sunderland:3",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Sunderland:4|Aston Villa:3",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Aston Villa:0|Sunderland:0",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Aston Villa:1|Sunderland:1",
+                    "price": 600
+                  },
+                  {
+                    "name": "Aston Villa:2|Sunderland:2",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Aston Villa:3|Sunderland:3",
+                    "price": 6000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "player_shots",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "b8d6ab6ecc8bb356c6335d3f417d0ecf",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Sunderland",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "h2h",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Bournemouth",
+                    "price": 105
+                  },
+                  {
+                    "name": "Nottingham Forest",
+                    "price": 250
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 260
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Bournemouth",
+                    "price": 100
+                  },
+                  {
+                    "name": "Nottingham Forest",
+                    "price": 255
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 250
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Bournemouth",
+                    "price": 100
+                  },
+                  {
+                    "name": "Nottingham Forest",
+                    "price": 240
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 250
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "totals",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "btts",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:36Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -160
+                  },
+                  {
+                    "name": "No",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:34Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -160
+                  },
+                  {
+                    "name": "No",
+                    "price": 115
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:02Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -152
+                  },
+                  {
+                    "name": "No",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "correct_score",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:11:36Z",
+                "outcomes": [
+                  {
+                    "name": "Bournemouth:1|Nottingham Forest:0",
+                    "price": 700
+                  },
+                  {
+                    "name": "Nottingham Forest:1|Bournemouth:0",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Bournemouth:2|Nottingham Forest:0",
+                    "price": 900
+                  },
+                  {
+                    "name": "Nottingham Forest:2|Bournemouth:0",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Bournemouth:3|Nottingham Forest:0",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Nottingham Forest:3|Bournemouth:0",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Bournemouth:4|Nottingham Forest:0",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Nottingham Forest:4|Bournemouth:0",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Bournemouth:5|Nottingham Forest:0",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Bournemouth:2|Nottingham Forest:1",
+                    "price": 650
+                  },
+                  {
+                    "name": "Nottingham Forest:2|Bournemouth:1",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Bournemouth:3|Nottingham Forest:1",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Nottingham Forest:3|Bournemouth:1",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Bournemouth:4|Nottingham Forest:1",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Nottingham Forest:4|Bournemouth:1",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Bournemouth:5|Nottingham Forest:1",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Bournemouth:3|Nottingham Forest:2",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Nottingham Forest:3|Bournemouth:2",
+                    "price": 2800
+                  },
+                  {
+                    "name": "Bournemouth:4|Nottingham Forest:2",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Nottingham Forest:4|Bournemouth:2",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Bournemouth:5|Nottingham Forest:2",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Bournemouth:4|Nottingham Forest:3",
+                    "price": 10000
+                  },
+                  {
+                    "name": "Nottingham Forest:4|Bournemouth:3",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Bournemouth:0|Nottingham Forest:0",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Bournemouth:1|Nottingham Forest:1",
+                    "price": 550
+                  },
+                  {
+                    "name": "Bournemouth:2|Nottingham Forest:2",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Bournemouth:3|Nottingham Forest:3",
+                    "price": 4000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "player_shots",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "cf68da11fa604c13fc9ef3219fad0314",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Bournemouth",
+        "away_team": "Nottingham Forest",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "h2h",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Chelsea",
+                    "price": -120
+                  },
+                  {
+                    "name": "Leeds United",
+                    "price": 310
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 280
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Chelsea",
+                    "price": -125
+                  },
+                  {
+                    "name": "Leeds United",
+                    "price": 300
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 275
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Chelsea",
+                    "price": -130
+                  },
+                  {
+                    "name": "Leeds United",
+                    "price": 310
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 280
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "totals",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "btts",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:12:26Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -160
+                  },
+                  {
+                    "name": "No",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:12:16Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -160
+                  },
+                  {
+                    "name": "No",
+                    "price": 115
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:16Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -144
+                  },
+                  {
+                    "name": "No",
+                    "price": 114
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "correct_score",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:12:26Z",
+                "outcomes": [
+                  {
+                    "name": "Chelsea:1|Leeds United:0",
+                    "price": 700
+                  },
+                  {
+                    "name": "Leeds United:1|Chelsea:0",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Chelsea:2|Leeds United:0",
+                    "price": 750
+                  },
+                  {
+                    "name": "Leeds United:2|Chelsea:0",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Chelsea:3|Leeds United:0",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Leeds United:3|Chelsea:0",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Chelsea:4|Leeds United:0",
+                    "price": 2800
+                  },
+                  {
+                    "name": "Leeds United:4|Chelsea:0",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Chelsea:5|Leeds United:0",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Chelsea:2|Leeds United:1",
+                    "price": 650
+                  },
+                  {
+                    "name": "Leeds United:2|Chelsea:1",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Chelsea:3|Leeds United:1",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Leeds United:3|Chelsea:1",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Chelsea:4|Leeds United:1",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Leeds United:4|Chelsea:1",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Chelsea:5|Leeds United:1",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Chelsea:3|Leeds United:2",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Leeds United:3|Chelsea:2",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Chelsea:4|Leeds United:2",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Leeds United:4|Chelsea:2",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Chelsea:5|Leeds United:2",
+                    "price": 10000
+                  },
+                  {
+                    "name": "Chelsea:4|Leeds United:3",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Leeds United:4|Chelsea:3",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Chelsea:0|Leeds United:0",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Chelsea:1|Leeds United:1",
+                    "price": 600
+                  },
+                  {
+                    "name": "Chelsea:2|Leeds United:2",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Chelsea:3|Leeds United:3",
+                    "price": 4000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "player_shots",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "ac6cf70520a83c0949b4003bde53c709",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "ac6cf70520a83c0949b4003bde53c709",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Chelsea",
+        "away_team": "Leeds United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "h2h",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Coventry City",
+                    "price": 145
+                  },
+                  {
+                    "name": "Crystal Palace",
+                    "price": 165
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 250
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Coventry City",
+                    "price": 135
+                  },
+                  {
+                    "name": "Crystal Palace",
+                    "price": 180
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 245
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Coventry City",
+                    "price": 140
+                  },
+                  {
+                    "name": "Crystal Palace",
+                    "price": 170
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 250
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "totals",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "btts",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:44Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -165
+                  },
+                  {
+                    "name": "No",
+                    "price": 125
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:39Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -185
+                  },
+                  {
+                    "name": "No",
+                    "price": 135
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:42Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -172
+                  },
+                  {
+                    "name": "No",
+                    "price": 134
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "correct_score",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:10:44Z",
+                "outcomes": [
+                  {
+                    "name": "Coventry City:1|Crystal Palace:0",
+                    "price": 850
+                  },
+                  {
+                    "name": "Crystal Palace:1|Coventry City:0",
+                    "price": 950
+                  },
+                  {
+                    "name": "Coventry City:2|Crystal Palace:0",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Crystal Palace:2|Coventry City:0",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Coventry City:3|Crystal Palace:0",
+                    "price": 2200
+                  },
+                  {
+                    "name": "Crystal Palace:3|Coventry City:0",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Coventry City:4|Crystal Palace:0",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Crystal Palace:4|Coventry City:0",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Coventry City:2|Crystal Palace:1",
+                    "price": 800
+                  },
+                  {
+                    "name": "Crystal Palace:2|Coventry City:1",
+                    "price": 850
+                  },
+                  {
+                    "name": "Coventry City:3|Crystal Palace:1",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Crystal Palace:3|Coventry City:1",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Coventry City:4|Crystal Palace:1",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Crystal Palace:4|Coventry City:1",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Coventry City:5|Crystal Palace:1",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Crystal Palace:5|Coventry City:1",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Coventry City:3|Crystal Palace:2",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Crystal Palace:3|Coventry City:2",
+                    "price": 2200
+                  },
+                  {
+                    "name": "Coventry City:4|Crystal Palace:2",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Crystal Palace:4|Coventry City:2",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Coventry City:5|Crystal Palace:2",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Crystal Palace:5|Coventry City:2",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Coventry City:4|Crystal Palace:3",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Crystal Palace:4|Coventry City:3",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Coventry City:0|Crystal Palace:0",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Coventry City:1|Crystal Palace:1",
+                    "price": 550
+                  },
+                  {
+                    "name": "Coventry City:2|Crystal Palace:2",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Coventry City:3|Crystal Palace:3",
+                    "price": 3500
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "player_shots",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "9f38413bdad666e2d2dfcc574dd12e66",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "9f38413bdad666e2d2dfcc574dd12e66",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Coventry City",
+        "away_team": "Crystal Palace",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "h2h",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Ipswich Town",
+                    "price": 450
+                  },
+                  {
+                    "name": "Tottenham Hotspur",
+                    "price": -190
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 350
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Ipswich Town",
+                    "price": 450
+                  },
+                  {
+                    "name": "Tottenham Hotspur",
+                    "price": -190
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 330
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Ipswich Town",
+                    "price": 460
+                  },
+                  {
+                    "name": "Tottenham Hotspur",
+                    "price": -210
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 350
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "totals",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "btts",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:12:13Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -145
+                  },
+                  {
+                    "name": "No",
+                    "price": 110
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:38Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -150
+                  },
+                  {
+                    "name": "No",
+                    "price": 110
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:24Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -142
+                  },
+                  {
+                    "name": "No",
+                    "price": 112
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "correct_score",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:12:13Z",
+                "outcomes": [
+                  {
+                    "name": "Tottenham Hotspur:1|Ipswich Town:0",
+                    "price": 750
+                  },
+                  {
+                    "name": "Ipswich Town:1|Tottenham Hotspur:0",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Tottenham Hotspur:2|Ipswich Town:0",
+                    "price": 650
+                  },
+                  {
+                    "name": "Ipswich Town:2|Tottenham Hotspur:0",
+                    "price": 2800
+                  },
+                  {
+                    "name": "Tottenham Hotspur:3|Ipswich Town:0",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Ipswich Town:3|Tottenham Hotspur:0",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:4|Ipswich Town:0",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Tottenham Hotspur:5|Ipswich Town:0",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:2|Ipswich Town:1",
+                    "price": 650
+                  },
+                  {
+                    "name": "Ipswich Town:2|Tottenham Hotspur:1",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Tottenham Hotspur:3|Ipswich Town:1",
+                    "price": 950
+                  },
+                  {
+                    "name": "Ipswich Town:3|Tottenham Hotspur:1",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Tottenham Hotspur:4|Ipswich Town:1",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Ipswich Town:4|Tottenham Hotspur:1",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:5|Ipswich Town:1",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:3|Ipswich Town:2",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Ipswich Town:3|Tottenham Hotspur:2",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:4|Ipswich Town:2",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Ipswich Town:4|Tottenham Hotspur:2",
+                    "price": 10000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:5|Ipswich Town:2",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:4|Ipswich Town:3",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:0|Ipswich Town:0",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Tottenham Hotspur:1|Ipswich Town:1",
+                    "price": 750
+                  },
+                  {
+                    "name": "Tottenham Hotspur:2|Ipswich Town:2",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Tottenham Hotspur:3|Ipswich Town:3",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:6|Ipswich Town:0",
+                    "price": 10000
+                  },
+                  {
+                    "name": "Tottenham Hotspur:6|Ipswich Town:1",
+                    "price": 9000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "player_shots",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "e67ee3a6f93bb90b8aefcf3dd204477c",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T15:00:00Z",
+        "home_team": "Tottenham Hotspur",
+        "away_team": "Ipswich Town",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "h2h",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Arsenal",
+                    "price": -170
+                  },
+                  {
+                    "name": "Newcastle United",
+                    "price": 450
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 310
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Arsenal",
+                    "price": -175
+                  },
+                  {
+                    "name": "Newcastle United",
+                    "price": 425
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 310
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Arsenal",
+                    "price": -175
+                  },
+                  {
+                    "name": "Newcastle United",
+                    "price": 420
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 310
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "totals",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "btts",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:12:13Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -140
+                  },
+                  {
+                    "name": "No",
+                    "price": 105
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:34Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -145
+                  },
+                  {
+                    "name": "No",
+                    "price": 105
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:53Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -130
+                  },
+                  {
+                    "name": "No",
+                    "price": 102
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "correct_score",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:12:13Z",
+                "outcomes": [
+                  {
+                    "name": "Newcastle United:1|Arsenal:0",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Arsenal:1|Newcastle United:0",
+                    "price": 650
+                  },
+                  {
+                    "name": "Newcastle United:2|Arsenal:0",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Arsenal:2|Newcastle United:0",
+                    "price": 650
+                  },
+                  {
+                    "name": "Newcastle United:3|Arsenal:0",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Arsenal:3|Newcastle United:0",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Arsenal:4|Newcastle United:0",
+                    "price": 2200
+                  },
+                  {
+                    "name": "Arsenal:5|Newcastle United:0",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Newcastle United:2|Arsenal:1",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Arsenal:2|Newcastle United:1",
+                    "price": 600
+                  },
+                  {
+                    "name": "Newcastle United:3|Arsenal:1",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Arsenal:3|Newcastle United:1",
+                    "price": 950
+                  },
+                  {
+                    "name": "Newcastle United:4|Arsenal:1",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Arsenal:4|Newcastle United:1",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Arsenal:5|Newcastle United:1",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Newcastle United:3|Arsenal:2",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Arsenal:3|Newcastle United:2",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Newcastle United:4|Arsenal:2",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Arsenal:4|Newcastle United:2",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Arsenal:5|Newcastle United:2",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Arsenal:4|Newcastle United:3",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Newcastle United:0|Arsenal:0",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Newcastle United:1|Arsenal:1",
+                    "price": 650
+                  },
+                  {
+                    "name": "Newcastle United:2|Arsenal:2",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Newcastle United:3|Arsenal:3",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Arsenal:6|Newcastle United:0",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Arsenal:6|Newcastle United:1",
+                    "price": 13000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "player_shots",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "71bf9fe98c3e3be39cd1d059f8d71ae8",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-21T17:30:00Z",
+        "home_team": "Newcastle United",
+        "away_team": "Arsenal",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "h2h",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Brighton and Hove Albion",
+                    "price": -190
+                  },
+                  {
+                    "name": "Hull City",
+                    "price": 475
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 330
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Brighton and Hove Albion",
+                    "price": -200
+                  },
+                  {
+                    "name": "Hull City",
+                    "price": 475
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 330
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Brighton and Hove Albion",
+                    "price": -195
+                  },
+                  {
+                    "name": "Hull City",
+                    "price": 470
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 340
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "totals",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "totals",
+                "last_update": "2026-11-09T00:11:42Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": -154,
+                    "point": 2.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 126,
+                    "point": 2.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "btts",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:47Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -140
+                  },
+                  {
+                    "name": "No",
+                    "price": 105
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:12:16Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -140
+                  },
+                  {
+                    "name": "No",
+                    "price": 100
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:42Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -134
+                  },
+                  {
+                    "name": "No",
+                    "price": 106
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "correct_score",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:11:47Z",
+                "outcomes": [
+                  {
+                    "name": "Hull City:1|Brighton and Hove Albion:0",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:1|Hull City:0",
+                    "price": 650
+                  },
+                  {
+                    "name": "Hull City:2|Brighton and Hove Albion:0",
+                    "price": 2800
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:2|Hull City:0",
+                    "price": 650
+                  },
+                  {
+                    "name": "Hull City:3|Brighton and Hove Albion:0",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:3|Hull City:0",
+                    "price": 950
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:4|Hull City:0",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:5|Hull City:0",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Hull City:2|Brighton and Hove Albion:1",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:2|Hull City:1",
+                    "price": 650
+                  },
+                  {
+                    "name": "Hull City:3|Brighton and Hove Albion:1",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:3|Hull City:1",
+                    "price": 950
+                  },
+                  {
+                    "name": "Hull City:4|Brighton and Hove Albion:1",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:4|Hull City:1",
+                    "price": 2200
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:5|Hull City:1",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Hull City:3|Brighton and Hove Albion:2",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:3|Hull City:2",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Hull City:4|Brighton and Hove Albion:2",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:4|Hull City:2",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:5|Hull City:2",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:4|Hull City:3",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Hull City:0|Brighton and Hove Albion:0",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Hull City:1|Brighton and Hove Albion:1",
+                    "price": 700
+                  },
+                  {
+                    "name": "Hull City:2|Brighton and Hove Albion:2",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Hull City:3|Brighton and Hove Albion:3",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:6|Hull City:0",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Brighton and Hove Albion:6|Hull City:1",
+                    "price": 12000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "player_shots",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "230a356290e1a358e9dd2f7fa23de3b9",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "230a356290e1a358e9dd2f7fa23de3b9",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T14:00:00Z",
+        "home_team": "Hull City",
+        "away_team": "Brighton and Hove Albion",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "h2h",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Liverpool",
+                    "price": -155
+                  },
+                  {
+                    "name": "Manchester United",
+                    "price": 340
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 310
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Liverpool",
+                    "price": -140
+                  },
+                  {
+                    "name": "Manchester United",
+                    "price": 350
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 310
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Liverpool",
+                    "price": -140
+                  },
+                  {
+                    "name": "Manchester United",
+                    "price": 330
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 300
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "totals",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "btts",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": [
+          {
+            "key": "fanduel",
+            "title": "FanDuel",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:11:41Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -166
+                  },
+                  {
+                    "name": "No",
+                    "price": 130
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:32Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -170
+                  },
+                  {
+                    "name": "No",
+                    "price": 130
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:46Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -185
+                  },
+                  {
+                    "name": "No",
+                    "price": 130
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "correct_score",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:10:32Z",
+                "outcomes": [
+                  {
+                    "name": "Liverpool:1|Manchester United:0",
+                    "price": 800
+                  },
+                  {
+                    "name": "Manchester United:1|Liverpool:0",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Liverpool:2|Manchester United:0",
+                    "price": 800
+                  },
+                  {
+                    "name": "Manchester United:2|Liverpool:0",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Liverpool:3|Manchester United:0",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Manchester United:3|Liverpool:0",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Liverpool:4|Manchester United:0",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Manchester United:4|Liverpool:0",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Liverpool:5|Manchester United:0",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Liverpool:2|Manchester United:1",
+                    "price": 650
+                  },
+                  {
+                    "name": "Manchester United:2|Liverpool:1",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Liverpool:3|Manchester United:1",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Manchester United:3|Liverpool:1",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Liverpool:4|Manchester United:1",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Manchester United:4|Liverpool:1",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Liverpool:5|Manchester United:1",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Liverpool:3|Manchester United:2",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Manchester United:3|Liverpool:2",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Liverpool:4|Manchester United:2",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Manchester United:4|Liverpool:2",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Liverpool:5|Manchester United:2",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Liverpool:4|Manchester United:3",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Manchester United:4|Liverpool:3",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Liverpool:0|Manchester United:0",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Liverpool:1|Manchester United:1",
+                    "price": 650
+                  },
+                  {
+                    "name": "Liverpool:2|Manchester United:2",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Liverpool:3|Manchester United:3",
+                    "price": 3500
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "player_shots",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "4c08b213ed416e8f41e038f42a42b962",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "4c08b213ed416e8f41e038f42a42b962",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-22T16:30:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "h2h",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:12:12Z",
+                "outcomes": [
+                  {
+                    "name": "Brentford",
+                    "price": 100
+                  },
+                  {
+                    "name": "Everton",
+                    "price": 250
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 260
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "h2h",
+                "last_update": "2026-11-09T00:11:54Z",
+                "outcomes": [
+                  {
+                    "name": "Brentford",
+                    "price": 100
+                  },
+                  {
+                    "name": "Everton",
+                    "price": 245
+                  },
+                  {
+                    "name": "Draw",
+                    "price": 255
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "totals",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "btts",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:12:26Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -160
+                  },
+                  {
+                    "name": "No",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "draftkings",
+            "title": "DraftKings",
+            "markets": [
+              {
+                "key": "btts",
+                "last_update": "2026-11-09T00:10:35Z",
+                "outcomes": [
+                  {
+                    "name": "Yes",
+                    "price": -165
+                  },
+                  {
+                    "name": "No",
+                    "price": 120
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "correct_score",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "correct_score",
+                "last_update": "2026-11-09T00:12:26Z",
+                "outcomes": [
+                  {
+                    "name": "Brentford:1|Everton:0",
+                    "price": 700
+                  },
+                  {
+                    "name": "Everton:1|Brentford:0",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Brentford:2|Everton:0",
+                    "price": 950
+                  },
+                  {
+                    "name": "Everton:2|Brentford:0",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Brentford:3|Everton:0",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Everton:3|Brentford:0",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Brentford:4|Everton:0",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Everton:4|Brentford:0",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Brentford:5|Everton:0",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Brentford:2|Everton:1",
+                    "price": 700
+                  },
+                  {
+                    "name": "Everton:2|Brentford:1",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Brentford:3|Everton:1",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Everton:3|Brentford:1",
+                    "price": 2200
+                  },
+                  {
+                    "name": "Brentford:4|Everton:1",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Everton:4|Brentford:1",
+                    "price": 6000
+                  },
+                  {
+                    "name": "Brentford:5|Everton:1",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Brentford:3|Everton:2",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Everton:3|Brentford:2",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Brentford:4|Everton:2",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Everton:4|Brentford:2",
+                    "price": 8000
+                  },
+                  {
+                    "name": "Brentford:5|Everton:2",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Brentford:4|Everton:3",
+                    "price": 9000
+                  },
+                  {
+                    "name": "Everton:4|Brentford:3",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Brentford:0|Everton:0",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Brentford:1|Everton:1",
+                    "price": 550
+                  },
+                  {
+                    "name": "Brentford:2|Everton:2",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Brentford:3|Everton:3",
+                    "price": 4000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "correct_score_h1",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "player_shots",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "player_shots_on_target",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": []
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "alternate_totals_corners",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "alternate_totals_corners",
+                "last_update": "2026-11-09T00:12:26Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "price": -140,
+                    "point": 9.5
+                  },
+                  {
+                    "name": "Under",
+                    "price": 100,
+                    "point": 9.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "event_id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+      "market": "alternate_team_totals_corners",
+      "data": {
+        "id": "aa77e2a08a1a003b0bbb62a5f8e8ae42",
+        "sport_key": "soccer_epl",
+        "sport_title": "EPL",
+        "commence_time": "2026-11-23T20:00:00Z",
+        "home_team": "Brentford",
+        "away_team": "Everton",
+        "bookmakers": [
+          {
+            "key": "fanatics",
+            "title": "Fanatics",
+            "markets": [
+              {
+                "key": "alternate_team_totals_corners",
+                "last_update": "2026-11-09T00:12:26Z",
+                "outcomes": [
+                  {
+                    "name": "Over",
+                    "description": "Brentford",
+                    "price": 270,
+                    "point": 7.5
+                  },
+                  {
+                    "name": "Under",
+                    "description": "Brentford",
+                    "price": -425,
+                    "point": 7.5
+                  },
+                  {
+                    "name": "Over",
+                    "description": "Everton",
+                    "price": -200,
+                    "point": 3.5
+                  },
+                  {
+                    "name": "Under",
+                    "description": "Everton",
+                    "price": 140,
+                    "point": 3.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
